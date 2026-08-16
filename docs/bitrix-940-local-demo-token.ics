@@ -10,7 +10,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250531T113000Z
 DTEND;VALUE=DATE-TIME:20250531T130000Z
 DTSTAMP:20250707T063000Z
-UID:fe7e25707ff9ce0eb0d891ecac75e800@bitrix
+UID:bfede4ea0a9ddc3a0a50ef3cab481761@bitrix
 SUMMARY:Регулярное занятие театр-студия "Сверхзадачка"
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20250712;WKST=MO
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250527T130000Z
 DTEND;VALUE=DATE-TIME:20250527T170000Z
 DTSTAMP:20250707T062900Z
-UID:ef8ea5e93a2d37a2f208f5fdce3437b9@bitrix
+UID:7371bf4cf26d8b71d0b2ebc70e1071dd@bitrix
 SUMMARY:Регулярные занятия вокальная студия "ДНК"
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20250708;WKST=MO
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250529T130000Z
 DTEND;VALUE=DATE-TIME:20250529T170000Z
 DTSTAMP:20250707T063000Z
-UID:b482d7424c15925cb4a5d90d0508dcba@bitrix
+UID:6ae190e622935249b218a99813ae272c@bitrix
 SUMMARY:Регулярные занятия вокальная студия "ДНК"
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20250710;WKST=MO
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250531T070000Z
 DTEND;VALUE=DATE-TIME:20250531T100000Z
 DTSTAMP:20250707T063000Z
-UID:8aa19a94a95fc2f53284da49e0e4a147@bitrix
+UID:7f54cb2b13d82f90ee5c5c67a0d55bf9@bitrix
 SUMMARY:Регулярные занятия вокальная студия "ДНК"
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20250712;WKST=MO
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250526T130000Z
 DTEND;VALUE=DATE-TIME:20250526T150000Z
 DTSTAMP:20250610T093400Z
-UID:3a1fc86bac3b3a34bb35583ec660ec99@bitrix
+UID:53d815e094409cfb80c49b5795f01d93@bitrix
 SUMMARY:Регулярные занятия Импров. Арктик
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;UNTIL=20250623;WKST=MO
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250528T130000Z
 DTEND;VALUE=DATE-TIME:20250528T150000Z
 DTSTAMP:20250707T081800Z
-UID:6ceac0838daadaac543e93a302039f8b@bitrix
+UID:09fa7193cd0fbc5b306874c671fca7c6@bitrix
 SUMMARY:Регулярные занятия Импров. Арктик
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20250716;WKST=MO
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250531T110000Z
 DTEND;VALUE=DATE-TIME:20250531T140000Z
 DTSTAMP:20250707T063000Z
-UID:7ef30504a631c61c51d9b888d5d1771d@bitrix
+UID:a277407c013ba8ddce952f9e7c19c4cc@bitrix
 SUMMARY:Регулярные занятия Импров. Арктик
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20250712;WKST=MO
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250622T140000Z
 DTEND;VALUE=DATE-TIME:20250622T153000Z
 DTSTAMP:20250618T003900Z
-UID:4c41cfdc5d8fd44657826f9b4702507f@bitrix
+UID:84f69fa87da90882741c401fcad0d390@bitrix
 SUMMARY:Поэтический вечер "Сложи смыслы"/Зайкина
 DESCRIPTION:
 LOCATION:
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250607T110000Z
 DTEND;VALUE=DATE-TIME:20250607T120000Z
 DTSTAMP:20250529T081100Z
-UID:f71367bc4ef31cc34f8d89f4959fbd75@bitrix
+UID:fafe23661d313bb2feb2816d40881a93@bitrix
 SUMMARY:Лекции Канашовой/Лабунская
 DESCRIPTION:
 LOCATION:
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250609T123000Z
 DTEND;VALUE=DATE-TIME:20250609T143000Z
 DTSTAMP:20250603T013900Z
-UID:88bc2ae88338eaeb3d8ef0e6d08a5d92@bitrix
+UID:b7cd8722dad49baf5e3ad9531bf5c961@bitrix
 SUMMARY:благотворительное событие от ЗакСо // Шуклина
 DESCRIPTION:
 LOCATION:
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250602T160000Z
 DTEND;VALUE=DATE-TIME:20250602T170000Z
 DTSTAMP:20250602T033600Z
-UID:90984f68038b76d4a174a4acfde77099@bitrix
+UID:c2542b7cc1e41621609e05417a70ea89@bitrix
 SUMMARY:Программа адаптации // Новожилова / Работнёва
 DESCRIPTION:
 LOCATION:
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250609T090000Z
 DTEND;VALUE=DATE-TIME:20250609T110000Z
 DTSTAMP:20250603T074100Z
-UID:d1324d2bc01b9df81951f8c7e10b73fc@bitrix
+UID:1bb87c9bd26cda701f5b8aa26b86d90d@bitrix
 SUMMARY:Летний лагер. Do main pro
 DESCRIPTION:
 LOCATION:
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250611T090000Z
 DTEND;VALUE=DATE-TIME:20250611T130000Z
 DTSTAMP:20250603T074200Z
-UID:7918591b5c72166d83b62bdef2a9a98b@bitrix
+UID:4601ec784448d13bf8d252a65b99e575@bitrix
 SUMMARY:Летний лагер. Do main pro
 DESCRIPTION:
 LOCATION:
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250613T090000Z
 DTEND;VALUE=DATE-TIME:20250613T130000Z
 DTSTAMP:20250603T074500Z
-UID:12ec877ec3687ffdf4efa93f4681a2b0@bitrix
+UID:71d1d8b953e5c1601487e461e6e83878@bitrix
 SUMMARY:Летний лагер. Do main pro
 DESCRIPTION:
 LOCATION:
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250612T040000Z
 DTEND;VALUE=DATE-TIME:20250612T160000Z
 DTSTAMP:20250604T045200Z
-UID:2dcb4e31afc5c9922d5e169c1f5f8b60@bitrix
+UID:ad45759388cfbf0670480724844cb39e@bitrix
 SUMMARY:Кофе-брейки образовательного саммита "МЫ ВМЕСТЕ"
 DESCRIPTION:
 LOCATION:
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250610T123000Z
 DTEND;VALUE=DATE-TIME:20250610T140000Z
 DTSTAMP:20250609T080000Z
-UID:ad63199cc7d164997143ad9a466b3d5d@bitrix
+UID:abeb3d20f1de1aa93a5259ffab108777@bitrix
 SUMMARY:Съёмка каталога работ ФТИ
 DESCRIPTION:
 LOCATION:
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250701T110000Z
 DTEND;VALUE=DATE-TIME:20250701T180000Z
 DTSTAMP:20250617T014500Z
-UID:9421b03835b9d9a0580c8dcaa2293f36@bitrix
+UID:a2811f3eb531f84004897504dfdc39ee@bitrix
 SUMMARY:Встреча губернатора//Конференция по утверждению ДАА в должности секретаря ЕР // Казанцева / Мальцева [Занят]
 DESCRIPTION:
 LOCATION:
@@ -221,7 +221,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250621T143000Z
 DTEND;VALUE=DATE-TIME:20250621T170000Z
 DTSTAMP:20250617T063000Z
-UID:324bdda35d7d857e72d4d81375fe7cc3@bitrix
+UID:bece2211cefc32cd3e166f0973100389@bitrix
 SUMMARY:Репетиция поэтического вечера "Сложи смыслы"
 DESCRIPTION:
 LOCATION:
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250621T070000Z
 DTEND;VALUE=DATE-TIME:20250621T100000Z
 DTSTAMP:20250617T075900Z
-UID:4ec94b25a476f838ac2b9b5871629e4e@bitrix
+UID:b0174a5d735351e41d2b19d1c9fffd7d@bitrix
 SUMMARY:Большой вокальный интенсив. До 21 июня
 DESCRIPTION:
 LOCATION:
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250620T050000Z
 DTEND;VALUE=DATE-TIME:20250620T180000Z
 DTSTAMP:20250618T013300Z
-UID:3d20921faa04cffecf71dd33ac4c9348@bitrix
+UID:36916e72da0926f9fc583b3eb10943c2@bitrix
 SUMMARY:Подготовка фуршета к выпускному
 DESCRIPTION:
 LOCATION:
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250619T090000Z
 DTEND;VALUE=DATE-TIME:20250619T130000Z
 DTSTAMP:20250618T031500Z
-UID:5c40fa6b34ecde2704de4f77ee3c30f8@bitrix
+UID:23f303ed4441384935d084d215852031@bitrix
 SUMMARY:Летний лагер. Do main pro
 DESCRIPTION:
 LOCATION:
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250623T030000Z
 DTEND;VALUE=DATE-TIME:20250623T170000Z
 DTSTAMP:20250623T004700Z
-UID:5d0ace9d92cc83894cf30508d9077e39@bitrix
+UID:3cb03621727c270249fba43801d44e51@bitrix
 SUMMARY:Всероссийская образовательная программа форумной дирекции Росмолодёжи "Россия.Страна.Возможности"
 DESCRIPTION:
 LOCATION:
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250624T030000Z
 DTEND;VALUE=DATE-TIME:20250624T170000Z
 DTSTAMP:20250623T005700Z
-UID:5e488f0896f7f304a874c2477ac96b67@bitrix
+UID:9317203a7ee960db3232ac7254eb9486@bitrix
 SUMMARY:Всероссийская образовательная программа форумной дирекции Росмолодёжи "Россия.Страна.Возможности"
 DESCRIPTION:
 LOCATION:
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250625T030000Z
 DTEND;VALUE=DATE-TIME:20250625T170000Z
 DTSTAMP:20250623T005900Z
-UID:454b1676c9fd33c5e6079dd52a7c05aa@bitrix
+UID:810824edd28aeed1aee1eda1654cfedf@bitrix
 SUMMARY:Всероссийская образовательная программа форумной дирекции Росмолодёжи "Россия.Страна.Возможности"
 DESCRIPTION:
 LOCATION:
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250626T030000Z
 DTEND;VALUE=DATE-TIME:20250626T090000Z
 DTSTAMP:20250623T010000Z
-UID:4bb74e384fcec8310b5d9a307609948e@bitrix
+UID:eb55d3e88a276f329ff8909bbcb4eb80@bitrix
 SUMMARY:Всероссийская образовательная программа форумной дирекции Росмолодёжи "Россия.Страна.Возможности"
 DESCRIPTION:
 LOCATION:
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250625T143000Z
 DTEND;VALUE=DATE-TIME:20250625T160000Z
 DTSTAMP:20250625T012900Z
-UID:6803c76b9c4025aa3b59d06c90943cfc@bitrix
+UID:18dd30baec7005b3d6f1a23ef33b62f9@bitrix
 SUMMARY:Регулярное занятие театр-студии "Сверхзадачка"
 DESCRIPTION:
 LOCATION:
@@ -329,7 +329,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250627T120000Z
 DTEND;VALUE=DATE-TIME:20250627T170000Z
 DTSTAMP:20250627T022300Z
-UID:bcd703f17ed7984e8c3a755f3886fe0a@bitrix
+UID:d4598f92784fcca051b3fbb8b10c882a@bitrix
 SUMMARY:Метод центр/Шатаева/Зенкина
 DESCRIPTION:
 LOCATION:
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250630T040000Z
 DTEND;VALUE=DATE-TIME:20250630T130000Z
 DTSTAMP:20250627T094600Z
-UID:b6b3c2a532a4c1cee1ef3dd3b76507ec@bitrix
+UID:3b94b239f4da2fba7cda8a978597230d@bitrix
 SUMMARY:Обучающее мероприятие, направленное на знакомство и сплочение стажеров и наставников // Шуклина
 DESCRIPTION:
 LOCATION:
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250702T060000Z
 DTEND;VALUE=DATE-TIME:20250702T120000Z
 DTSTAMP:20250701T040400Z
-UID:a156dc4eb285b5b2b5e213fcfa6622f5@bitrix
+UID:3582061b73cb46e54c7d6d6b6f9832e9@bitrix
 SUMMARY:Совещание для обсуждения предложений взаимодействия финансово-юридической службы и ГАУ ЯНАО МЦ ЯМолод
 DESCRIPTION:
 LOCATION:
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251207T030000Z
 DTEND;VALUE=DATE-TIME:20251207T170000Z
 DTSTAMP:20251203T070200Z
-UID:2174403a64f47746cf6d53b394a288d6@bitrix
+UID:551b2985a83d6a2ceb717792087aa22d@bitrix
 SUMMARY:Торжественное закрытие тематического года «Защитник Отечества» и «Год Героев» на Ямале // Филиппова// Лабунская
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251208T030000Z
 DTEND;VALUE=DATE-TIME:20251208T170000Z
 DTSTAMP:20251203T070300Z
-UID:cdc99179c38e877e98a98801e1b98c58@bitrix
+UID:42d90f2bec1dfae1ca1a8435197e9d94@bitrix
 SUMMARY:Торжественное закрытие тематического года «Защитник Отечества» и «Год Героев» на Ямале // Филиппова // Лабунская
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -389,7 +389,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251209T030000Z
 DTEND;VALUE=DATE-TIME:20251209T170000Z
 DTSTAMP:20251203T070400Z
-UID:3c7251943b81e6e79d9edebe78cbbb10@bitrix
+UID:864d094a32b4d5ba5fb3a2704340a9e4@bitrix
 SUMMARY:Торжественное закрытие тематического года «Защитник Отечества» и «Год Героев» на Ямале // Филиппова // Лабунская
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250806T122900Z
 DTEND;VALUE=DATE-TIME:20250806T122900Z
 DTSTAMP:20250806T092900Z
-UID:365b318b8d41eb1f09dcfedc458c8136@bitrix
+UID:fdbd9a52a7f25e46143a6ef79a08caae@bitrix
 SUMMARY:Торжественное закрытие тематического года «Защитник Отечества» и «Год Героев» на Ямале // Шуклина
 DESCRIPTION:
 LOCATION:
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250704T113000Z
 DTEND;VALUE=DATE-TIME:20250704T123000Z
 DTSTAMP:20250701T074000Z
-UID:a6b886417982ece391c7c623b58dee0e@bitrix
+UID:cccdd9b3171cc6caca24808ef37560b6@bitrix
 SUMMARY:Защита на президентство Софии
 DESCRIPTION:
 LOCATION:
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250922T030000Z
 DTEND;VALUE=DATE-TIME:20250922T170000Z
 DTSTAMP:20250910T055000Z
-UID:abadddf4e6aa634bfb5782771bbfd0ab@bitrix
+UID:b81688376eedca7d68245863702d3c14@bitrix
 SUMMARY:Форум международного клуба дружбы на Ямале // Дровникова // Шуклина
 DESCRIPTION:
 LOCATION:
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250923T030000Z
 DTEND;VALUE=DATE-TIME:20250923T170000Z
 DTSTAMP:20250910T055100Z
-UID:e9cd70ad8b9ce8f3791377f5ec526f5a@bitrix
+UID:d704747ccf36ae901e91ad54afecdd35@bitrix
 SUMMARY:Форум международного клуба дружбы на Ямале // Дровникова // Шуклина
 DESCRIPTION:
 LOCATION:
@@ -449,7 +449,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250924T030000Z
 DTEND;VALUE=DATE-TIME:20250924T170000Z
 DTSTAMP:20250910T055300Z
-UID:081bda190d62f98ce3d037767d011c26@bitrix
+UID:3c5e74a3102001cb8268b2acca051180@bitrix
 SUMMARY:Форум международного клуба дружбы на Ямале // Дровникова // Шуклина
 DESCRIPTION:
 LOCATION:
@@ -461,7 +461,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250925T030000Z
 DTEND;VALUE=DATE-TIME:20250925T170000Z
 DTSTAMP:20250910T055400Z
-UID:536f11c8b44a7e2afd844d9e07953774@bitrix
+UID:6be5268f55cbe34fc5885eaaed845025@bitrix
 SUMMARY:Форум международного клуба дружбы на Ямале // Дровникова // Шуклина
 DESCRIPTION:
 LOCATION:
@@ -473,7 +473,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250926T030000Z
 DTEND;VALUE=DATE-TIME:20250926T170000Z
 DTSTAMP:20250910T055600Z
-UID:b57f234f3a0ab83ef9ea84e5b015fe01@bitrix
+UID:4e2f636b188c67746e9bf816f48c281d@bitrix
 SUMMARY:Конференция регионального отделения «Движение первых» – «Поехали!» // Сулейменов // Шуклина
 DESCRIPTION:
 LOCATION:
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250927T030000Z
 DTEND;VALUE=DATE-TIME:20250927T170000Z
 DTSTAMP:20250910T055900Z
-UID:3a1e84f73153cf3410ac0662992b3c3c@bitrix
+UID:ff1b07425912ca905ade73ecc37bcec3@bitrix
 SUMMARY:Конференция регионального отделения «Движение первых» – «Поехали!» // Сулейменов // Шуклина
 DESCRIPTION:
 LOCATION:
@@ -497,7 +497,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250928T030000Z
 DTEND;VALUE=DATE-TIME:20250928T170000Z
 DTSTAMP:20250910T060300Z
-UID:5838be77faf67eabb14c88e68f993760@bitrix
+UID:570b3366a16c2519eb9987e706d1b1ab@bitrix
 SUMMARY:Конференция регионального отделения «Движение первых» – «Поехали!» // Сулейменов // Шуклина
 DESCRIPTION:
 LOCATION:
@@ -509,7 +509,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250709T130000Z
 DTEND;VALUE=DATE-TIME:20250709T141000Z
 DTSTAMP:20250709T004200Z
-UID:dc21662f6f018b223f68689e3f9b3716@bitrix
+UID:6156175fdf16a3b40463c00d91fd688e@bitrix
 SUMMARY:В рамках корпоративного обучения от метод.центра "м.к. по жестовому языку"/Серасхова
 DESCRIPTION:
 LOCATION:
@@ -521,7 +521,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250716T090000Z
 DTEND;VALUE=DATE-TIME:20250716T130000Z
 DTSTAMP:20250708T012900Z
-UID:6af5b0d7407ac9717d8f09548461583f@bitrix
+UID:f96e06bfc78d123f0ad4abd8a6a44639@bitrix
 SUMMARY:Летний лагер. Do main pro
 DESCRIPTION:
 LOCATION:
@@ -533,7 +533,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250717T090000Z
 DTEND;VALUE=DATE-TIME:20250717T130000Z
 DTSTAMP:20250708T013100Z
-UID:771436055ab5afcf92df5dc2f1b00313@bitrix
+UID:f61e3fc9ab3543b9c48a8c241b2c4a7c@bitrix
 SUMMARY:Летний лагер. Do main pro
 DESCRIPTION:
 LOCATION:
@@ -545,7 +545,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250718T090000Z
 DTEND;VALUE=DATE-TIME:20250718T130000Z
 DTSTAMP:20250708T013100Z
-UID:6320a77dfb2fd994994e1de251d094ad@bitrix
+UID:c3664537b5eee3d1749c74bde6ec658c@bitrix
 SUMMARY:Летний лагер. Do main pro
 DESCRIPTION:
 LOCATION:
@@ -557,7 +557,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250719T090000Z
 DTEND;VALUE=DATE-TIME:20250719T130000Z
 DTSTAMP:20250708T013100Z
-UID:e09dd60470ae6042f2ef11c7fa489091@bitrix
+UID:f243944631ef9c7e5661b23d4d6afae7@bitrix
 SUMMARY:Летний лагер. Do main pro
 DESCRIPTION:
 LOCATION:
@@ -569,7 +569,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250724T093000Z
 DTEND;VALUE=DATE-TIME:20250724T113000Z
 DTSTAMP:20250711T073500Z
-UID:db0534e263b04a89adbd14ccd81834c5@bitrix
+UID:1c93442468d0e2532c7bd40879a19837@bitrix
 SUMMARY:Образовательная программа  направленная на повышение компетенций в сфере управления молодежной сферой  для руководителей органов по делам молодежи в МО (приезд делегации из Татарстана)
 DESCRIPTION:
 LOCATION:
@@ -581,7 +581,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250725T103000Z
 DTEND;VALUE=DATE-TIME:20250725T123000Z
 DTSTAMP:20250722T062000Z
-UID:460d41c6185c19e72233f561728c9d27@bitrix
+UID:4bc18e11dd08438718ec44b2068655e2@bitrix
 SUMMARY:Образовательная программа  направленная на повышение компетенций в сфере управления молодежной сферой  для руководителей органов по делам молодежи в МО (приезд делегации из Татарстана)
 DESCRIPTION:
 LOCATION:
@@ -593,7 +593,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251011T030000Z
 DTEND;VALUE=DATE-TIME:20251011T160000Z
 DTSTAMP:20250918T051600Z
-UID:eb6bc2374bb65e18839b6e4fdc63865d@bitrix
+UID:9b03a0ce90821165c3c298ab8be9cd25@bitrix
 SUMMARY:Ямолод. Хит // Лаврёнов // Лабунская
 DESCRIPTION:
 LOCATION:
@@ -605,7 +605,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251012T030000Z
 DTEND;VALUE=DATE-TIME:20251012T160000Z
 DTSTAMP:20250918T055300Z
-UID:f5082b11f02073ca854ff4e67b941961@bitrix
+UID:ed99792c30f5e7f021f258d4499d1fde@bitrix
 SUMMARY:Ямолод. Хит // Лаврёнов // Лабунская
 DESCRIPTION:
 LOCATION:
@@ -617,7 +617,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250707T130000Z
 DTEND;VALUE=DATE-TIME:20250707T153000Z
 DTSTAMP:20250902T014800Z
-UID:fdcafd2b54434c52fac186b95e4e93d2@bitrix
+UID:619d6de895897b00defea4b1e32e61ec@bitrix
 SUMMARY:Регулярные занятия Импров. Арктик
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;UNTIL=20250901;WKST=MO
@@ -630,7 +630,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250708T130000Z
 DTEND;VALUE=DATE-TIME:20250708T170000Z
 DTSTAMP:20250902T014800Z
-UID:731f5d1747d86f3ce446ebcc6477f180@bitrix
+UID:e3b181edb514dce8286b43ba37112715@bitrix
 SUMMARY:Регулярные занятия вокальной студии "ДНК"
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20250902;WKST=MO
@@ -643,7 +643,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250709T130000Z
 DTEND;VALUE=DATE-TIME:20250709T153000Z
 DTSTAMP:20250902T015100Z
-UID:bce530392d7f8d8015f70ed2f8604427@bitrix
+UID:152564fe2634133ac9056ef96f508f58@bitrix
 SUMMARY:Регулярные занятия Импров. Арктик
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20250903;WKST=MO
@@ -656,7 +656,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250710T130000Z
 DTEND;VALUE=DATE-TIME:20250710T170000Z
 DTSTAMP:20250902T015100Z
-UID:32dd007887113ad203f97253a28a2d69@bitrix
+UID:90eef4cb6a26534559b085a9edb897ae@bitrix
 SUMMARY:Регулярные занятия вокальной студии "ДНК"
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20250904;WKST=MO
@@ -669,7 +669,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250712T110000Z
 DTEND;VALUE=DATE-TIME:20250712T140000Z
 DTSTAMP:20250902T015200Z
-UID:12d036080174fcf6b2dc34c77ffc0acc@bitrix
+UID:9624c4300066c8838978895d85847080@bitrix
 SUMMARY:Регулярные занятия Импров. Арктик
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20250906;WKST=MO
@@ -682,7 +682,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250713T070000Z
 DTEND;VALUE=DATE-TIME:20250713T130000Z
 DTSTAMP:20250902T015200Z
-UID:d3c2512160ea23efad73c9634531172b@bitrix
+UID:9189f380109d039cfc803f5a3c68d5a1@bitrix
 SUMMARY:Регулярные занятия вокальной студии "ДНК"
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SU;UNTIL=20250907;WKST=MO
@@ -695,7 +695,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250812T052800Z
 DTEND;VALUE=DATE-TIME:20250812T052800Z
 DTSTAMP:20250812T022800Z
-UID:7d912e7a66a31a016713a568dadd66ac@bitrix
+UID:cd700f0e0d7bf96dc592678dde5f1805@bitrix
 SUMMARY:Ямарка
 DESCRIPTION:
 LOCATION:
@@ -707,7 +707,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251028T030000Z
 DTEND;VALUE=DATE-TIME:20251028T170000Z
 DTSTAMP:20251024T130900Z
-UID:7c0665c21cfc833bbee0c481b26ecaa6@bitrix
+UID:bffcf1517761b6364219a8a6dda1e1f9@bitrix
 SUMMARY:Кинофестиваль // Лаврёнов // Мальцева
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -719,7 +719,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251029T030000Z
 DTEND;VALUE=DATE-TIME:20251029T170000Z
 DTSTAMP:20251024T131000Z
-UID:2750517fa03630fda26b71c8b140975b@bitrix
+UID:80806a53cbac37301b5024dc23bb2203@bitrix
 SUMMARY:Кинофестиваль ‎ // Лаврёнов // Мальцева
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -731,7 +731,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251030T030000Z
 DTEND;VALUE=DATE-TIME:20251030T170000Z
 DTSTAMP:20251024T131100Z
-UID:21e5357a6fc9ea973e4725ea8cec2cac@bitrix
+UID:7248fc6d48c9c3c414f65ff8a3d40d83@bitrix
 SUMMARY:Кинофестиваль // Лаврёнов // Мальцева
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -743,7 +743,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251006T070000Z
 DTEND;VALUE=DATE-TIME:20251006T130000Z
 DTSTAMP:20250918T050900Z
-UID:501109d4a4c11ec463e249c436118990@bitrix
+UID:c5318a4bf62f88abcecf8c45db361430@bitrix
 SUMMARY:Образовательный выезд в  г. Салехард // Караваева // Мальцева
 DESCRIPTION:1. Наименование мероприятия:\nОбразовательный выезд в \nг. Салехард \n\n2. Описание мероприятия:\nВсероссийский образовательный выезд для обмена практиками среди специалистов по работе с молодёжью и студентов, обучающихся по специальности &quot;Организация работы с молодёжью&quot; \n\n3. Информация о площадке и времени:\nПлощадка 1 (Атриум): \n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\nПлощадка 2 (Боулинг):\n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\nПлощадка 3 (Театр):\n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\nПлощадка 4 (Медиастудия 1 этаж)\n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\nПлощадка 5 (Медиастудия 2 этаж)\n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\n4. Организационные детали\nПриглашенные гости: нет\n/но позже могут появится/ \n\nФормат мероприятия:  образовательная программа \n\nКол-во человек: 60 \n\n5. Дополнительные комментарии: нет\n\n6. Ответственные лица\nФИО ответственного: Караваева Дарья Валерьевна \nКонтакт ответственного: [URL=tel:89131111700]89131111700[/URL]\nНаименование учреждения, ответственного за мероприятие: ГАУ ЯНАО «МЦ «Ямолод»
 LOCATION:
@@ -755,7 +755,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251007T070000Z
 DTEND;VALUE=DATE-TIME:20251007T130000Z
 DTSTAMP:20250918T051100Z
-UID:7b322fe8f96d92220409846d846709ac@bitrix
+UID:820ae1988fdec00bb47757f598e61c5b@bitrix
 SUMMARY:Образовательный выезд в  г. Салехард // Караваева // Мальцева
 DESCRIPTION:1. Наименование мероприятия:\nОбразовательный выезд в \nг. Салехард \n\n2. Описание мероприятия:\nВсероссийский образовательный выезд для обмена практиками среди специалистов по работе с молодёжью и студентов, обучающихся по специальности &quot;Организация работы с молодёжью&quot; \n\n3. Информация о площадке и времени:\nПлощадка 1 (Атриум): \n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\nПлощадка 2 (Боулинг):\n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\nПлощадка 3 (Театр):\n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\nПлощадка 4 (Медиастудия 1 этаж)\n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\nПлощадка 5 (Медиастудия 2 этаж)\n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\n4. Организационные детали\nПриглашенные гости: нет\n/но позже могут появится/ \n\nФормат мероприятия:  образовательная программа \n\nКол-во человек: 60 \n\n5. Дополнительные комментарии: нет\n\n6. Ответственные лица\nФИО ответственного: Караваева Дарья Валерьевна \nКонтакт ответственного: [URL=tel:89131111700]89131111700[/URL]\nНаименование учреждения, ответственного за мероприятие: ГАУ ЯНАО «МЦ «Ямолод»
 LOCATION:
@@ -767,7 +767,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251008T070000Z
 DTEND;VALUE=DATE-TIME:20251008T150000Z
 DTSTAMP:20250918T051400Z
-UID:bc5b5acfc4ea169042d788c4ab944935@bitrix
+UID:5e09bda922bc34cd58a996b16d1ef54d@bitrix
 SUMMARY:Образовательный выезд в  г. Салехард // Караваева // Мальцева
 DESCRIPTION:1. Наименование мероприятия:\nОбразовательный выезд в \nг. Салехард \n\n2. Описание мероприятия:\nВсероссийский образовательный выезд для обмена практиками среди специалистов по работе с молодёжью и студентов, обучающихся по специальности &quot;Организация работы с молодёжью&quot; \n\n3. Информация о площадке и времени:\nПлощадка 1 (Атриум): \n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\nПлощадка 2 (Боулинг):\n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\nПлощадка 3 (Театр):\n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\nПлощадка 4 (Медиастудия 1 этаж)\n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\nПлощадка 5 (Медиастудия 2 этаж)\n• Дата и время начала: 06.10, 12:00 \n• Дата и время окончания: 08.10, 20:00 \n\n4. Организационные детали\nПриглашенные гости: нет\n/но позже могут появится/ \n\nФормат мероприятия:  образовательная программа \n\nКол-во человек: 60 \n\n5. Дополнительные комментарии: нет\n\n6. Ответственные лица\nФИО ответственного: Караваева Дарья Валерьевна \nКонтакт ответственного: [URL=tel:89131111700]89131111700[/URL]\nНаименование учреждения, ответственного за мероприятие: ГАУ ЯНАО «МЦ «Ямолод»
 LOCATION:
@@ -779,7 +779,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251106T070000Z
 DTEND;VALUE=DATE-TIME:20251106T150000Z
 DTSTAMP:20251028T024000Z
-UID:f07a5a9eace6f43fd05471d4b0bf3701@bitrix
+UID:c6451fa5133117a24ec7bd2c0d21ee01@bitrix
 SUMMARY:Ямолод.Академия // Караваева // Картель
 DESCRIPTION:
 LOCATION:
@@ -791,7 +791,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251107T070000Z
 DTEND;VALUE=DATE-TIME:20251107T150000Z
 DTSTAMP:20251028T024100Z
-UID:192b0440d558c674bbf490538ed60003@bitrix
+UID:3dbeda1b2b5a640879851a252475197a@bitrix
 SUMMARY:Ямолод.Академия // Караваева // Картель
 DESCRIPTION:
 LOCATION:
@@ -803,7 +803,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251108T070000Z
 DTEND;VALUE=DATE-TIME:20251108T150000Z
 DTSTAMP:20251028T024200Z
-UID:c9fddadfecba71a040e660fb8e9dd869@bitrix
+UID:e2e6b57e91536e83164378af9aae767b@bitrix
 SUMMARY:Ямолод.Академия // Караваева // Картель
 DESCRIPTION:
 LOCATION:
@@ -815,7 +815,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250726T060000Z
 DTEND;VALUE=DATE-TIME:20250726T080000Z
 DTSTAMP:20250711T073900Z
-UID:509f77f3f42cac51347deb545520f650@bitrix
+UID:181c0d25691b8ed9fa7041dff6e09c62@bitrix
 SUMMARY:Образовательная программа  направленная на повышение компетенций в сфере управления молодежной сферой  для руководителей органов по делам молодежи в МО
 DESCRIPTION:
 LOCATION:
@@ -827,7 +827,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250807T120000Z
 DTEND;VALUE=DATE-TIME:20250807T150000Z
 DTSTAMP:20250715T104400Z
-UID:897dda3d35f13115cf36ecaf35c1f0ba@bitrix
+UID:065549542878ba0197eb3df058b10812@bitrix
 SUMMARY:Лекция для самозанятых
 DESCRIPTION:
 LOCATION:
@@ -839,7 +839,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250729T200000Z
 DTEND;VALUE=DATE-TIME:20250729T210000Z
 DTSTAMP:20250806T032200Z
-UID:af9fcbbb9e008b9ca8eeb645de354729@bitrix
+UID:4ff477d9642a87385a0ba6cf61316ff9@bitrix
 SUMMARY:Регулярные занятия Domain pro (пока ремонт)
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20250814;WKST=MO
@@ -852,7 +852,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250726T090000Z
 DTEND;VALUE=DATE-TIME:20250726T130000Z
 DTSTAMP:20250722T013900Z
-UID:b20b23826c86edb2a0863e9c9c2ce3c5@bitrix
+UID:f7cbc32e2984821b6f0d94b26dd6c38b@bitrix
 SUMMARY:Летний лагер. Do main pro
 DESCRIPTION:
 LOCATION:
@@ -864,7 +864,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250809T110000Z
 DTEND;VALUE=DATE-TIME:20250809T123000Z
 DTSTAMP:20250728T044200Z
-UID:6ee2c3a93881ed4272daf26e3df235ca@bitrix
+UID:6f56f2b212c17253328ae389eb075674@bitrix
 SUMMARY:М.к. "Мода и дизайн" И. Канашова
 DESCRIPTION:
 LOCATION:
@@ -876,7 +876,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251124T030000Z
 DTEND;VALUE=DATE-TIME:20251124T170000Z
 DTSTAMP:20251120T022400Z
-UID:308e33116bf05a1cb0a656f7f7980b09@bitrix
+UID:7a78d7759b7cacbf02b0cfb5fc474137@bitrix
 SUMMARY:Ямолод.Конф (регионы) // Шатаева // Шуклина
 DESCRIPTION:1. Наименование мероприятия:\nЯмолод.Конф (регионы)\n\n 2. Описание мероприятия:\nМероприятие представляет собой практико-ориентированную межрегиональную конференцию, направленную на развитие профессиональных компетенций специалистов, работающих в сфере МП.\n\n 3. Информация о площадке и времени: \n\nПлощадка 1 (Атриум): \n• Дата и время начала: 24.11, 12:00 \n• Дата и время окончания: 26.11, 21:00 \n\nПлощадка 2 (Боулинг):\n• Дата и время начала: 24.11, 10:00 \n• Дата и время окончания: 26.11, 21:00 \n\nПлощадка 3 (Театр):\n• Дата и время начала: 24.11, 12:00 \n• Дата и время окончания: 26.11, 21:00 \n\nПлощадка 4 (Медиа студия 1 этаж)\n• Дата и время начала: 24.11, 12:00 \n• Дата и время окончания: 26.11, 20:00 \n\nПлощадка 5 (Медиа студия 2 этаж)\n• Дата и время начала: 24.11, 12:00 \n• Дата и время окончания: 26.11, 20:00 \n\n4. Организационные детали\n\nПриглашенные гости:  Хайруллин Н.Р. \nВозможно участие Лескина Ю.Ю.\n\nФормат мероприятия:  Программа включает выступления экспертов, презентацию успешных кейсов, интерактивные форматы, а также сессии профессионального обмена опытом.\n\n Кол-во человек: 180\n\n5. Дополнительные комментарии: нет\n\n6. Ответственные лица\nФИО ответственного: Караваева Дарья Валерьевна \nКонтакт ответственного: [URL=tel:89131111700]89131111700[/URL]\nНаименование учреждения, ответственного за мероприятие: ГАУ ЯНАО «МЦ «Ямолод»
 RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20251128;WKST=MO
@@ -889,7 +889,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250829T140000Z
 DTEND;VALUE=DATE-TIME:20250829T153000Z
 DTSTAMP:20250819T094500Z
-UID:ec8d9ec1cee172d45fc9652a1b7b3a6b@bitrix
+UID:67ac5d5980f14239282a473183092e69@bitrix
 SUMMARY:Бардовский концерт
 DESCRIPTION:
 LOCATION:
@@ -901,7 +901,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250906T110000Z
 DTEND;VALUE=DATE-TIME:20250906T130000Z
 DTSTAMP:20250902T021400Z
-UID:86903f4f639eff1c99920f92904a8b73@bitrix
+UID:9c7c5b0a7b413ea16b616aea37822bed@bitrix
 SUMMARY:МЕРОПРИЯТИЕ м.к. Канашова "Мода. Стиль. Дизайн"
 DESCRIPTION:
 LOCATION:
@@ -913,7 +913,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250905T110000Z
 DTEND;VALUE=DATE-TIME:20250905T140000Z
 DTSTAMP:20250908T061200Z
-UID:b457575d0887dbced144d78e2b4da8d8@bitrix
+UID:c13bd04e851b54cbcdceb00727b9e1d2@bitrix
 SUMMARY:Импров. Арктик
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20250912;WKST=MO
@@ -926,7 +926,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250901T130000Z
 DTEND;VALUE=DATE-TIME:20250901T150000Z
 DTSTAMP:20250903T073200Z
-UID:276031e83aeaa0eb5d41c3d1f072bbbe@bitrix
+UID:0489e24da2a777c243619242aed46ac3@bitrix
 SUMMARY:Импров. Арктик
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;UNTIL=20251227;WKST=MO
@@ -939,7 +939,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250914T080000Z
 DTEND;VALUE=DATE-TIME:20250914T120000Z
 DTSTAMP:20250903T093300Z
-UID:a0158c249b79984a35fe79b88081e784@bitrix
+UID:cc78ba8c79d75e9362d75dd697727800@bitrix
 SUMMARY:Интенсив Импров. Арктик
 DESCRIPTION:
 LOCATION:
@@ -951,7 +951,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251031T150000Z
 DTEND;VALUE=DATE-TIME:20251031T190000Z
 DTSTAMP:20251015T065300Z
-UID:19c832182c0effbdc5dd07456a32f5a2@bitrix
+UID:ebd47c94bd60f9775d963f72436b9dd6@bitrix
 SUMMARY:Мероприятие резидента с приглашённым экспертом. Тишкина
 DESCRIPTION:
 LOCATION:
@@ -963,7 +963,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251114T140000Z
 DTEND;VALUE=DATE-TIME:20251114T153000Z
 DTSTAMP:20250904T012900Z
-UID:501aff171b217cc8404441859efe45d0@bitrix
+UID:1fad2ac877e90a6e16a76e4199b7e891@bitrix
 SUMMARY:Сверхзадачка (ср. состав)
 DESCRIPTION:
 LOCATION:
@@ -975,7 +975,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250907T110000Z
 DTEND;VALUE=DATE-TIME:20250907T140000Z
 DTSTAMP:20250906T055200Z
-UID:ce5b452a72f4a43cf86b1b429fe4ef35@bitrix
+UID:91b94b90bfc3fc72b36499ba930f59ad@bitrix
 SUMMARY:Импров. Арктик
 DESCRIPTION:
 LOCATION:
@@ -987,7 +987,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250912T110000Z
 DTEND;VALUE=DATE-TIME:20250912T140000Z
 DTSTAMP:20251203T104400Z
-UID:dff2ff9e74962159a8b662d375e187d4@bitrix
+UID:b53dafd1f35bbd88879ae7ec90ecf8d0@bitrix
 SUMMARY:Импров. Арктик
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20251227;WKST=MO
@@ -1000,7 +1000,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250913T070000Z
 DTEND;VALUE=DATE-TIME:20250913T160000Z
 DTSTAMP:20250909T022300Z
-UID:7e3f4c27ee530657890deca22aa70b47@bitrix
+UID:373c56d65e930da48009d75584905e02@bitrix
 SUMMARY:Торжественный ужин с участием приглашенных ветеранов, посвященный 430- летию со дня образования города Салехарда \\ Мальцева
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -1012,7 +1012,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250913T060000Z
 DTEND;VALUE=DATE-TIME:20250913T090000Z
 DTSTAMP:20251127T085300Z
-UID:189844bed14422b7cdc819190d699d42@bitrix
+UID:3aedc246f48d0024c51f254fb70fb2a4@bitrix
 SUMMARY:ДНК
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20251129;WKST=MO
@@ -1025,7 +1025,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250912T090000Z
 DTEND;VALUE=DATE-TIME:20250912T170000Z
 DTSTAMP:20250909T022700Z
-UID:7be960b1b837d4a74ed3cdf6418508a1@bitrix
+UID:253349f183cd8b7dbbd3cb540a37d72c@bitrix
 SUMMARY:Застройка. Торжественный ужин с участием приглашенных ветеранов, посвященный 430- летию со дня образования города Салехарда \\ Мальцева
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -1037,7 +1037,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251005T023000Z
 DTEND;VALUE=DATE-TIME:20251005T170000Z
 DTSTAMP:20250918T050200Z
-UID:b1c46785d8a44b2f688a996c4b77a2db@bitrix
+UID:64e746bb57bc25e2e99f3f5b9adb4c02@bitrix
 SUMMARY:Ямарка // Лаврёнов // Лабунская
 DESCRIPTION:1. Наименование мероприятия:\n Ярмарка «Ямарка» в арт-резиденции «Полярис» в рамках программы развития молодёжного предпринимательства\n\n2. Описание мероприятия:\nЦелью ярмарки является создание площадки для продвижения и продажи местных товаров авторского исполнения, стимулируя развитие креативных индустрий, укрепление региональной экономики, а также расширение сообщества предпринимателей и поиск новых партнёров.\nФормат мероприятия: ярмарка местных товаров авторского исполнения с параллельной программой мастер-классов и арт-перфомансов от резидентов сети АР, концертная программа и модный показ в завершение дня.\n\n3. Информация о площадке и времени:\n04 октября\nПлощадка 1 (Театр):\n • Образовательная программа.  09:00 - Застройка. Проведение: 12:00 - 19:00\n • 04 октября 19:00\n\nПлощадка 2 (Атриум):\n • Застройка 12:00\n • 04 октября 19:00\n\n05 октября\nПлощадка 1 (Театр)\n • 09:00 - Застройка; 12:30 - Проведение.\n • 05 октября в 18:00\n\nПлощадка 2 (Медиа)\n • 09:00 - Застройка; 12:30 - Проведение.\n • 05 октября в 18:00\n\nПлощадка 3 (Боулинг)\n • 09:00 - Застройка площадки; 12:30 - Проведение;\n • 05 октября в 18:00\n\nПлощадка 4 (Атриум)\n• 09:00 - Застройка площадки (предприниматели); 12:00 - Проведение;\n• 05 октября в 19:30
 LOCATION:
@@ -1049,7 +1049,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251019T090000Z
 DTEND;VALUE=DATE-TIME:20251019T150000Z
 DTSTAMP:20250909T080300Z
-UID:46c938bbcda962752c15c533759b8341@bitrix
+UID:bf757290d0ed95ba56c4e470283b5192@bitrix
 SUMMARY:Показ чтецкого клуба резидент А. Зайкина
 DESCRIPTION:
 LOCATION:
@@ -1061,7 +1061,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250930T040000Z
 DTEND;VALUE=DATE-TIME:20250930T133000Z
 DTSTAMP:20250918T045700Z
-UID:9100c5ca2f0ea9c3381a338eb2246949@bitrix
+UID:d12b83e6d0fdefd5ec10bc87754226e5@bitrix
 SUMMARY:Ямолод стажировка // Голенок // Лабунская
 DESCRIPTION:1. Наименование мероприятия: &quot;Обучающее мероприятие, направленное на знакомство и сплочение стажеров и наставников&quot;\n2. Описание мероприятия:\nЦель: Выстраивание эффективного взаимодействия наставников и стажеров\n \n3. Информация о площадке и времени:\n \nПлощадка 1: Театральная студия\n • 30.09.2025 года с 9.00 до 13.00:\n \nПлощадка 2 : Медиа-студиа\n •  30.09.2025 года с 9.00 до 18.00:\n \nПлощадка 3 : Атриум\n •  01.10.2025 года с 9.00 до 13.00:\n \n4. Организационные детали\n \nПриглашенные гости:\n(Гурарий Е.М., заместитель Губернатора ЯНАО)\n \nФормат мероприятия:\nЛекция и Нетворкинг\n \nКол-во человек: до 40 человек \n \n5. Дополнительные комментарии:\nвозможность трансляции презентаций, необходимы флипчарты (8 шт.), столы, стулья и кулеры с водой\n \n6. Ответственные лица\n \nФИО ответственного:\nТарковский Дмитрий Вячеславович\nКонтакт ответственного: [URL=tel:89519837973]89519837973[/URL];\nЕвстафьев Адриан Андреевич\nКонтакт ответственного: [URL=tel:89994579210]89994579210[/URL];\n \nНаименование учреждения, ответственного за мероприятие: аппарат Губернатора ЯНАО.
 LOCATION:
@@ -1073,7 +1073,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250914T091100Z
 DTEND;VALUE=DATE-TIME:20250914T091100Z
 DTSTAMP:20250914T061100Z
-UID:4dde790ad7515ebd0b3ac4ea6c8ca441@bitrix
+UID:6aef48b2536fca9d17d4dc1759bd3b83@bitrix
 SUMMARY:Импров. Арктик
 DESCRIPTION:
 LOCATION:
@@ -1085,7 +1085,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250915T150000Z
 DTEND;VALUE=DATE-TIME:20250915T163000Z
 DTSTAMP:20250915T013500Z
-UID:73fdf49b89c2f879f0a29ecb202126b4@bitrix
+UID:623d0ef060dc46bbce42e1bb521005e6@bitrix
 SUMMARY:Сверхзадачка (ср. состав)
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;UNTIL=20251227;WKST=MO
@@ -1098,7 +1098,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250916T050000Z
 DTEND;VALUE=DATE-TIME:20250916T060000Z
 DTSTAMP:20250915T020500Z
-UID:52f670e0a8f43ca410d40facf0e2c731@bitrix
+UID:079629f4e5d826093d9019c1af92dec1@bitrix
 SUMMARY:Встреча по Морошке
 DESCRIPTION:
 LOCATION:
@@ -1110,7 +1110,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250920T073000Z
 DTEND;VALUE=DATE-TIME:20250920T120000Z
 DTSTAMP:20250916T071000Z
-UID:2fa19851ecdc29c8d8cfc82ee33de813@bitrix
+UID:73093d6df3b7adbbb9514393d73a4a05@bitrix
 SUMMARY:МКД (гардероб)
 DESCRIPTION:
 LOCATION:
@@ -1122,7 +1122,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251025T110000Z
 DTEND;VALUE=DATE-TIME:20251025T170000Z
 DTSTAMP:20250918T085900Z
-UID:0505ff9fb9d304ac5180f4a45c9a6e7a@bitrix
+UID:61a8bb85016ea06b5d1bf118db808706@bitrix
 SUMMARY:Выставка Анны Гулящих
 DESCRIPTION:
 LOCATION:
@@ -1134,7 +1134,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251130T040000Z
 DTEND;VALUE=DATE-TIME:20251130T153000Z
 DTSTAMP:20251128T061000Z
-UID:f0ca8607b268d384c4074e01bbe8fe94@bitrix
+UID:b3ec9800654fc21e8d96c103becdccd1@bitrix
 SUMMARY:«Образовательный модуль высшей школы управления в сфере культуры» // Сотникова // Лабунская
 DESCRIPTION:
 LOCATION:
@@ -1146,7 +1146,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251201T033000Z
 DTEND;VALUE=DATE-TIME:20251201T150000Z
 DTSTAMP:20251128T061400Z
-UID:3106def04c6f6995788f6f9c0ca28d4e@bitrix
+UID:ec7387effca0ad6c6d985ce1d821ac15@bitrix
 SUMMARY:«Образовательный модуль высшей школы управления в сфере культуры» // Сотникова // Лабунская
 DESCRIPTION:
 LOCATION:
@@ -1158,7 +1158,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251202T033000Z
 DTEND;VALUE=DATE-TIME:20251202T090000Z
 DTSTAMP:20251201T035100Z
-UID:8e89812319aee03a496fa883a598a83f@bitrix
+UID:667c8bdddb22375318e2e265e3eee433@bitrix
 SUMMARY:«Образовательный модуль высшей школы управления в сфере культуры» // Сотникова // Лабунская
 DESCRIPTION:
 LOCATION:
@@ -1170,7 +1170,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20250919T050000Z
 DTEND;VALUE=DATE-TIME:20250919T090000Z
 DTSTAMP:20250919T005600Z
-UID:846c4664c3a7238d317d8f349eef978d@bitrix
+UID:a16462f560d82b48af84b5e6722004f8@bitrix
 SUMMARY:Съёмка. Луцик
 DESCRIPTION:
 LOCATION:
@@ -1182,7 +1182,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251122T120000Z
 DTEND;VALUE=DATE-TIME:20251122T170000Z
 DTSTAMP:20250924T135700Z
-UID:967e523df1ee1833a7656cc5733c6510@bitrix
+UID:d0bc73cde75139856fc059502b2bb49b@bitrix
 SUMMARY:Выставка картин Алексея Пономарёва
 DESCRIPTION:
 LOCATION:
@@ -1194,7 +1194,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251101T110000Z
 DTEND;VALUE=DATE-TIME:20251101T160000Z
 DTSTAMP:20250929T081100Z
-UID:ef135bd7bdb5b0a7d76a41b65502c3cc@bitrix
+UID:a49585c5bd5008a0e4ca65686df0dd86@bitrix
 SUMMARY:Импров. Арктик работа с экспертом
 DESCRIPTION:
 LOCATION:
@@ -1206,7 +1206,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251102T080000Z
 DTEND;VALUE=DATE-TIME:20251102T160000Z
 DTSTAMP:20250929T100700Z
-UID:ca4b88ae2894ceb2774d45b68ba66b9e@bitrix
+UID:f07bdc8e2b7c6ddcbf93110ebeb33585@bitrix
 SUMMARY:Импров.Арктик работа с экспертом
 DESCRIPTION:
 LOCATION:
@@ -1218,7 +1218,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251001T110000Z
 DTEND;VALUE=DATE-TIME:20251001T140000Z
 DTSTAMP:20250929T081600Z
-UID:e937113b18cfa1c1eb1cb27f481126bb@bitrix
+UID:0ea03c1ad4beb55f4b6b44028473aba3@bitrix
 SUMMARY:"Школа ЯМ \\ Графический дизайн"
 DESCRIPTION:
 LOCATION:
@@ -1230,7 +1230,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251015T040000Z
 DTEND;VALUE=DATE-TIME:20251015T070000Z
 DTSTAMP:20251008T031500Z
-UID:8caa7720ca56bbcd996e39ec9137c1c5@bitrix
+UID:598aca337173b38ef22081ccd75a6b00@bitrix
 SUMMARY:Школа Ямолод // Геймдизайн
 DESCRIPTION:
 LOCATION:
@@ -1242,7 +1242,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251015T100000Z
 DTEND;VALUE=DATE-TIME:20251015T130000Z
 DTSTAMP:20251008T031600Z
-UID:687bf698cb17312a256596e013305d26@bitrix
+UID:7b48d56f7cb9515a3e2f6089dd0d07e9@bitrix
 SUMMARY:Школа Ямолод // Геймдизайн
 DESCRIPTION:
 LOCATION:
@@ -1254,7 +1254,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251018T080000Z
 DTEND;VALUE=DATE-TIME:20251018T110000Z
 DTSTAMP:20251008T031900Z
-UID:7c81791ee9872ec3bd4c469e120c90f9@bitrix
+UID:f61ec951b73b13e524fe94285c4fdf4c@bitrix
 SUMMARY:Школа ЯМ \\ Графический дизайн
 DESCRIPTION:
 LOCATION:
@@ -1266,7 +1266,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251017T153000Z
 DTEND;VALUE=DATE-TIME:20251017T170000Z
 DTSTAMP:20251008T074200Z
-UID:25a83f508c5904a997c7243aefffdd7a@bitrix
+UID:0ce6118347be1154d2e8e1b855b32a27@bitrix
 SUMMARY:Репетиция по Клуба чтецов
 DESCRIPTION:
 LOCATION:
@@ -1278,7 +1278,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251015T153000Z
 DTEND;VALUE=DATE-TIME:20251015T173000Z
 DTSTAMP:20251008T083500Z
-UID:2228208d3e6c579aafc0ee6b480a732f@bitrix
+UID:521f6afdf20912a97ec99475baf55a71@bitrix
 SUMMARY:Репетиция Чтекого клуба
 DESCRIPTION:
 LOCATION:
@@ -1290,7 +1290,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251010T100000Z
 DTEND;VALUE=DATE-TIME:20251010T180000Z
 DTSTAMP:20251009T024900Z
-UID:4705e5e51b4e0e2c2da27504569fc7a3@bitrix
+UID:0e2b657df066c9b4e1dff17ffa86bc61@bitrix
 SUMMARY:Самит по протоколу 25
 DESCRIPTION:
 LOCATION:
@@ -1302,7 +1302,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251022T100000Z
 DTEND;VALUE=DATE-TIME:20251022T130000Z
 DTSTAMP:20251015T040900Z
-UID:a1ed144c05e2010191819996451cb9ab@bitrix
+UID:91b29616920da97d02758dc40cc61cac@bitrix
 SUMMARY:Школа ЯМ \\ Геймдизайн
 DESCRIPTION:
 LOCATION:
@@ -1314,7 +1314,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251119T140000Z
 DTEND;VALUE=DATE-TIME:20251119T170000Z
 DTSTAMP:20251119T063000Z
-UID:34ee129e9dab59f7de6c44ec5f32fba6@bitrix
+UID:a5fe96949fcdce171af9e1547ba04788@bitrix
 SUMMARY:Мероприятие резидента с приглашённым экспертом. Тишкина
 DESCRIPTION:
 LOCATION:
@@ -1326,7 +1326,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251102T030000Z
 DTEND;VALUE=DATE-TIME:20251102T080000Z
 DTSTAMP:20251024T131400Z
-UID:58f0fc44a551dc27a1d84c2a57153455@bitrix
+UID:e90e98c22dedb8de96d61db65d6a9b5d@bitrix
 SUMMARY:Серия образовательных м.к. 2 модуль. Школа тренеров//Караваева//Шуклина
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -1338,7 +1338,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251103T030000Z
 DTEND;VALUE=DATE-TIME:20251103T133000Z
 DTSTAMP:20251024T131400Z
-UID:3f60a3d57836a4a8e42148514be1bb6b@bitrix
+UID:0bcf5043b7be6b62b99d6cd5d9e5bf22@bitrix
 SUMMARY:Серия образовательных м.к. 2 модуль. Школа тренеров//Караваева//Шуклина
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -1350,7 +1350,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251104T030000Z
 DTEND;VALUE=DATE-TIME:20251104T130000Z
 DTSTAMP:20251024T131400Z
-UID:c792d6c91a759163cd45e19ae9d6d066@bitrix
+UID:b444fc5f8cf2d5812a9344d5ec3dcd25@bitrix
 SUMMARY:Серия образовательных м.к. 2 модуль. Школа тренеров//Караваева//Шуклина
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -1362,7 +1362,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251026T120000Z
 DTEND;VALUE=DATE-TIME:20251026T153000Z
 DTSTAMP:20251021T071200Z
-UID:3e6949d0f3ecfb1959d085bb4bf49821@bitrix
+UID:926afbf62b9268f27ce635a78ca7691e@bitrix
 SUMMARY:Медиа-смена
 DESCRIPTION:
 LOCATION:
@@ -1374,7 +1374,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251105T100000Z
 DTEND;VALUE=DATE-TIME:20251105T130000Z
 DTSTAMP:20251028T015000Z
-UID:106f0e978f2a92a34e0d0fed7483bf6d@bitrix
+UID:db76a2fe9d93ad647c765fd1065fe390@bitrix
 SUMMARY:Школа ЯМ \\ Геймдизайн
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -1386,7 +1386,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251027T070000Z
 DTEND;VALUE=DATE-TIME:20251027T160000Z
 DTSTAMP:20251024T061700Z
-UID:5be6b0287fc8d026825a428748106af8@bitrix
+UID:191ea903f2cc72f92cb9c03eeb260972@bitrix
 SUMMARY:Кинофестиваль Лаврёнов // Картель
 DESCRIPTION:
 LOCATION:
@@ -1398,7 +1398,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251031T140000Z
 DTEND;VALUE=DATE-TIME:20251031T170000Z
 DTSTAMP:20251024T114800Z
-UID:c90754b41387529f68f5764493257d49@bitrix
+UID:2227032840c43188f7e29d1633f7f1e6@bitrix
 SUMMARY:Сверхзадачка (ср. состав)
 DESCRIPTION:
 LOCATION:
@@ -1410,7 +1410,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251115T080000Z
 DTEND;VALUE=DATE-TIME:20251115T110000Z
 DTSTAMP:20251028T015400Z
-UID:a9c3239519e9233afdb22f79b8374241@bitrix
+UID:af29bca26dfee7f38e98f6180c52b304@bitrix
 SUMMARY:Школа ЯМ \\ Графический дизайн
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -1422,7 +1422,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251119T100000Z
 DTEND;VALUE=DATE-TIME:20251119T130000Z
 DTSTAMP:20251028T021200Z
-UID:ee2df9b52b8243f63bd5ab3f2cc963b0@bitrix
+UID:a3e7cced0ec29abc13d2bee2fa51f9df@bitrix
 SUMMARY:Школа ЯМ \\ Геймдизайн
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -1434,7 +1434,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251122T080000Z
 DTEND;VALUE=DATE-TIME:20251122T110000Z
 DTSTAMP:20251028T021400Z
-UID:de5a064cbbf97cf81949c93bd4ec8f3d@bitrix
+UID:23aa966f7d5be3a7d0b39bd88728e5cd@bitrix
 SUMMARY:Школа ЯМ \\ Графический дизайн
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -1446,7 +1446,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251216T033000Z
 DTEND;VALUE=DATE-TIME:20251216T090000Z
 DTSTAMP:20251211T071100Z
-UID:7a5affb5aa05ef6e8ba388b59867fd3c@bitrix
+UID:33d9064a7bcd1392f6def0297888effc@bitrix
 SUMMARY:Застройка площадки на Ночь в Школе Ямолод
 DESCRIPTION:
 LOCATION:
@@ -1458,7 +1458,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251216T050000Z
 DTEND;VALUE=DATE-TIME:20251216T150000Z
 DTSTAMP:20251211T071300Z
-UID:0e2af8d02d88eafc5dd4b084d6fac2d4@bitrix
+UID:687a8ea7232f972134717fd2e6f8b37c@bitrix
 SUMMARY:Ночь в Школе Ямолод
 DESCRIPTION:
 LOCATION:
@@ -1470,7 +1470,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251116T110000Z
 DTEND;VALUE=DATE-TIME:20251116T130000Z
 DTSTAMP:20251101T071400Z
-UID:eab91c20b2a507d4e47d66395d88e75c@bitrix
+UID:b72a2d184305693d06ce8db02df84f76@bitrix
 SUMMARY:М.к. Канашова
 DESCRIPTION:
 LOCATION:
@@ -1482,7 +1482,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251111T133000Z
 DTEND;VALUE=DATE-TIME:20251111T143000Z
 DTSTAMP:20251111T010400Z
-UID:39fa081555da83101162398e8afaa345@bitrix
+UID:1045a3068a4c83b035ec152ed1188771@bitrix
 SUMMARY:Бюро переводчиков
 DESCRIPTION:
 LOCATION:
@@ -1494,7 +1494,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251111T130000Z
 DTEND;VALUE=DATE-TIME:20251111T170000Z
 DTSTAMP:20251201T065000Z
-UID:6a77b46cde24869640e433dbb5407811@bitrix
+UID:de6df9b8f8c0c5fcd7e5ebbe9337e77d@bitrix
 SUMMARY:ДНК
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20251202;WKST=MO
@@ -1507,7 +1507,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251116T063000Z
 DTEND;VALUE=DATE-TIME:20251116T090000Z
 DTSTAMP:20251113T033700Z
-UID:3301efd8439537d672687d19598e9305@bitrix
+UID:73aeca90dff232a23b6cc1e84a9595f3@bitrix
 SUMMARY:Съёмка январского МК. Канашёва
 DESCRIPTION:
 LOCATION:
@@ -1519,7 +1519,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251109T070000Z
 DTEND;VALUE=DATE-TIME:20251109T130000Z
 DTSTAMP:20251105T071700Z
-UID:bd5fec39e6bc74011359e4516b094ef9@bitrix
+UID:54afa41a9879304616f387a0b6175a55@bitrix
 SUMMARY:Ямолод.Академия // Караваева // Картель
 DESCRIPTION:
 LOCATION:
@@ -1531,7 +1531,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251115T120000Z
 DTEND;VALUE=DATE-TIME:20251115T140000Z
 DTSTAMP:20251112T033900Z
-UID:237c08985d5feaa8eb0a5b62272a5905@bitrix
+UID:6aa69e78bb33fcd0ad602445acc4dec0@bitrix
 SUMMARY:М.к. по созданию Лошадки из бисера на Новогоднюю ёлку. ЯптикОлеся/Лавренов
 DESCRIPTION:
 LOCATION:
@@ -1543,7 +1543,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251111T080000Z
 DTEND;VALUE=DATE-TIME:20251111T090000Z
 DTSTAMP:20251110T095700Z
-UID:107f128a368dae9458b94be39035529f@bitrix
+UID:07ea99f6b65847eec3b860c0e71f8e47@bitrix
 SUMMARY:Галумова обучение
 DESCRIPTION:
 LOCATION:
@@ -1555,7 +1555,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251123T080000Z
 DTEND;VALUE=DATE-TIME:20251123T110000Z
 DTSTAMP:20251110T101400Z
-UID:ad5f26e9ccaf31cf5ba24ece339f4190@bitrix
+UID:6283ee8628c83b642f0dc5d6a614dea3@bitrix
 SUMMARY:Съёмка проекта для Гранта /Лавренов
 DESCRIPTION:
 LOCATION:
@@ -1567,7 +1567,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251211T050000Z
 DTEND;VALUE=DATE-TIME:20251211T124500Z
 DTSTAMP:20251113T052900Z
-UID:1c5efc4203231661464bbed6ea8298d0@bitrix
+UID:2c471bc89bccecc898d90371f5883086@bitrix
 SUMMARY:КВН
 DESCRIPTION:
 LOCATION:
@@ -1579,7 +1579,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251118T131100Z
 DTEND;VALUE=DATE-TIME:20251118T170000Z
 DTSTAMP:20251114T081000Z
-UID:3fdb44d5789eddc1c53c61842f903a31@bitrix
+UID:8ff6716eb6c1308f2704b91285e07cf2@bitrix
 SUMMARY:Индивидуальная бронь
 DESCRIPTION:
 LOCATION:
@@ -1591,7 +1591,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251117T130000Z
 DTEND;VALUE=DATE-TIME:20251117T140000Z
 DTSTAMP:20251117T021400Z
-UID:5ef794723208ec78ea693e64cb4d0ee4@bitrix
+UID:91f4d8635bc2105238805d540c3c4df4@bitrix
 SUMMARY:Встреча со всеми резидентами!
 DESCRIPTION:
 LOCATION:
@@ -1603,7 +1603,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251119T100000Z
 DTEND;VALUE=DATE-TIME:20251119T110000Z
 DTSTAMP:20251119T015000Z
-UID:f8c1914c60147a670a57304098f51467@bitrix
+UID:9698b6877cd712c97d05afacdbdd198d@bitrix
 SUMMARY:Совещание по Лейблу в кабинете у Анны Губер
 DESCRIPTION:
 LOCATION:
@@ -1615,7 +1615,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251204T070000Z
 DTEND;VALUE=DATE-TIME:20251204T110000Z
 DTSTAMP:20251203T065800Z
-UID:ac2dba4cabbe1f8e4f7f2797da832c68@bitrix
+UID:89cbdc0be62e00b7d4e7f32776fa3449@bitrix
 SUMMARY:Консультативный совет по вопросам этноконфессиональной политики при Губернаторе ЯНАО // Елисеева // Лабунская
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -1627,7 +1627,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251228T080000Z
 DTEND;VALUE=DATE-TIME:20251228T160000Z
 DTSTAMP:20251222T024200Z
-UID:22012705295ba1fc2620a3959ec6cc58@bitrix
+UID:c17b88ed223d595dd5b63466779ed9fc@bitrix
 SUMMARY:Импров. Арктик привоз ЭКСПЕРТА
 DESCRIPTION:
 LOCATION:
@@ -1639,7 +1639,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251228T050000Z
 DTEND;VALUE=DATE-TIME:20251228T090000Z
 DTSTAMP:20251222T062100Z
-UID:7b995217a4629eb98986e4ea518e810c@bitrix
+UID:1557d3571b7ac07972c5aea4b55fc2a2@bitrix
 SUMMARY:Импров. Арктик привоз ЭКСПЕРТА
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -1651,7 +1651,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251203T110000Z
 DTEND;VALUE=DATE-TIME:20251203T140000Z
 DTSTAMP:20251118T063900Z
-UID:14e5b6dc936b8c897b593aeb9adc8dc0@bitrix
+UID:4770a02181f3e9a3a54bba130e309ea0@bitrix
 SUMMARY:Школа ЯМ // Графический дизайн
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -1663,7 +1663,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251206T080000Z
 DTEND;VALUE=DATE-TIME:20251206T110000Z
 DTSTAMP:20251201T010300Z
-UID:e01a9503f75e7179fcb395b2482737a7@bitrix
+UID:4de77e14fad4bff078696cf697b7c244@bitrix
 SUMMARY:Школа ЯМ // Графический дизайн
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20260102;WKST=MO
@@ -1676,7 +1676,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251210T110000Z
 DTEND;VALUE=DATE-TIME:20251210T140000Z
 DTSTAMP:20251118T091000Z
-UID:f135a613aed966146e51a6e82eaa1465@bitrix
+UID:f165ffcf2712d10ceeddb986ddbec230@bitrix
 SUMMARY:Школа ЯМ // Графический дизайн
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20260102;WKST=MO
@@ -1689,7 +1689,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251129T120000Z
 DTEND;VALUE=DATE-TIME:20251129T150000Z
 DTSTAMP:20251119T015200Z
-UID:adc2e4dc50274fb0252249407ac9fd86@bitrix
+UID:af410c65b860d1e92d5e2d1022939785@bitrix
 SUMMARY:Импров. Арктик
 DESCRIPTION:
 LOCATION:
@@ -1701,7 +1701,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251205T080000Z
 DTEND;VALUE=DATE-TIME:20251205T140000Z
 DTSTAMP:20251119T071700Z
-UID:65bd1399b42d2c3dc814499a928f4a5e@bitrix
+UID:a3a1d6a9a7a4b3b5fae4a6da8a0068f6@bitrix
 SUMMARY:Лаборатория Т. Макарова
 DESCRIPTION:
 LOCATION:
@@ -1713,7 +1713,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251129T090000Z
 DTEND;VALUE=DATE-TIME:20251129T110000Z
 DTSTAMP:20251129T005400Z
-UID:8b76f985c88bb95c28e50f8dc6df2a38@bitrix
+UID:def6e20ed78fd72d8b8ca1b6f58ae18c@bitrix
 SUMMARY:Эксклюзивный обвес на сумку своими руками. Приятный творческий проект на котором проведешь время с подругой, мамой или любимой дочкой. Артеева
 DESCRIPTION:
 LOCATION:
@@ -1725,7 +1725,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260116T120000Z
 DTEND;VALUE=DATE-TIME:20260116T140000Z
 DTSTAMP:20251120T090100Z
-UID:bdfb9504cc0b9d14879c0ef480109740@bitrix
+UID:febc077cbaeebaa893fbda4594a66ea6@bitrix
 SUMMARY:Монтаж выставка Т. Макаровой
 DESCRIPTION:
 LOCATION:
@@ -1737,7 +1737,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260117T130000Z
 DTEND;VALUE=DATE-TIME:20260117T140000Z
 DTSTAMP:20251120T090000Z
-UID:f5be0be74ab9c37bf0e7d64b3745d346@bitrix
+UID:352779a555ddc211134c11ba3166e9cd@bitrix
 SUMMARY:Выставка Т. Макаровой
 DESCRIPTION:
 LOCATION:
@@ -1749,7 +1749,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260316T040000Z
 DTEND;VALUE=DATE-TIME:20260329T170000Z
 DTSTAMP:20251121T030400Z
-UID:233bcb156e55e336dc6772d98ece93bb@bitrix
+UID:e7d14c263048314489b5fb50562a57d5@bitrix
 SUMMARY:Муниципальная выставка-конкурс современного искусства
 DESCRIPTION:
 LOCATION:
@@ -1761,7 +1761,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261012T040000Z
 DTEND;VALUE=DATE-TIME:20261012T130000Z
 DTSTAMP:20260320T080100Z
-UID:ade08867b40f8fb8d7631b9f4c9996db@bitrix
+UID:52b0d7be1018b5fe6af4026cbbb50282@bitrix
 SUMMARY:Ямальский арт-фестиваль
 DESCRIPTION:
 LOCATION:
@@ -1773,7 +1773,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261013T040000Z
 DTEND;VALUE=DATE-TIME:20261013T130000Z
 DTSTAMP:20260320T080200Z
-UID:62356ba4d412ba67a290284ba3d0948c@bitrix
+UID:d2a5bb2b92eb8d10a7de10ff0b80d57c@bitrix
 SUMMARY:Ямальский арт-фестиваль
 DESCRIPTION:
 LOCATION:
@@ -1785,7 +1785,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261014T040000Z
 DTEND;VALUE=DATE-TIME:20261014T130000Z
 DTSTAMP:20260320T080300Z
-UID:297adafe3a3e27b24c63fb1f8d2d01be@bitrix
+UID:e05527d8f54e23ab0edd496649468ffc@bitrix
 SUMMARY:Ямальский арт-фестиваль
 DESCRIPTION:
 LOCATION:
@@ -1797,7 +1797,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260921T040000Z
 DTEND;VALUE=DATE-TIME:20260921T130000Z
 DTSTAMP:20251121T031300Z
-UID:7188116f3a8bd2e595faa521978d966b@bitrix
+UID:37871f42424050ed732c5f58d8216654@bitrix
 SUMMARY:Муниципальный музыкальный фестиваль «Ямолод.хит» (формат открытого микрофона)
 DESCRIPTION:
 LOCATION:
@@ -1809,7 +1809,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260922T040000Z
 DTEND;VALUE=DATE-TIME:20260922T130000Z
 DTSTAMP:20251121T031400Z
-UID:8263530c82b3faf3817706753232a336@bitrix
+UID:e0aab0f5b11417e6ba8606c9f78343c1@bitrix
 SUMMARY:Муниципальный музыкальный фестиваль «Ямолод.хит» (формат открытого микрофона)
 DESCRIPTION:
 LOCATION:
@@ -1821,7 +1821,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260923T040000Z
 DTEND;VALUE=DATE-TIME:20260923T130000Z
 DTSTAMP:20251121T031500Z
-UID:34d2704099f6590656c99572823238e5@bitrix
+UID:db3d27fcfc7dd21dd0a49827fb5061c5@bitrix
 SUMMARY:Муниципальный музыкальный фестиваль «Ямолод.хит» (формат открытого микрофона)
 DESCRIPTION:
 LOCATION:
@@ -1833,7 +1833,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260924T040000Z
 DTEND;VALUE=DATE-TIME:20260924T130000Z
 DTSTAMP:20251121T031900Z
-UID:82164e0fd091bd5ddf638d34e69ec1d9@bitrix
+UID:f087be7935f1427a5b53f491d62b4157@bitrix
 SUMMARY:Муниципальный музыкальный фестиваль «Ямолод.хит» (формат открытого микрофона)
 DESCRIPTION:
 LOCATION:
@@ -1845,7 +1845,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260925T040000Z
 DTEND;VALUE=DATE-TIME:20260925T130000Z
 DTSTAMP:20251121T032000Z
-UID:b4de894b56179143bf7a55d96d855227@bitrix
+UID:c8b5d2feebd96b3e84819ca68ce6919d@bitrix
 SUMMARY:Муниципальный музыкальный фестиваль «Ямолод.хит» (формат открытого микрофона)
 DESCRIPTION:
 LOCATION:
@@ -1857,7 +1857,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260926T040000Z
 DTEND;VALUE=DATE-TIME:20260926T130000Z
 DTSTAMP:20251121T032100Z
-UID:10fbaf2709caf87bfb6a9722edcdb8ce@bitrix
+UID:cdbb4c6dab7ba6a6c7df913598b7d4d4@bitrix
 SUMMARY:Муниципальный музыкальный фестиваль «Ямолод.хит» (формат открытого микрофона)
 DESCRIPTION:
 LOCATION:
@@ -1869,7 +1869,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260927T040000Z
 DTEND;VALUE=DATE-TIME:20260927T130000Z
 DTSTAMP:20251121T032200Z
-UID:426730c11986863c63d783a063274138@bitrix
+UID:6d350aba4e81ef6d5aece2bd5ad8d981@bitrix
 SUMMARY:Муниципальный музыкальный фестиваль «Ямолод.хит» (формат открытого микрофона)
 DESCRIPTION:
 LOCATION:
@@ -1881,7 +1881,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261007T040000Z
 DTEND;VALUE=DATE-TIME:20261007T130000Z
 DTSTAMP:20251121T032300Z
-UID:54b0207833e2272031fcaa6babf4ef00@bitrix
+UID:09bdb99a415be689314e1a0d48d10433@bitrix
 SUMMARY:Открытый фестиваль-конкурс современного танца «360»
 DESCRIPTION:
 LOCATION:
@@ -1893,7 +1893,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261008T040000Z
 DTEND;VALUE=DATE-TIME:20261008T130000Z
 DTSTAMP:20251121T032400Z
-UID:5523b2eaf489fec78d84b4e5a3e2fbb7@bitrix
+UID:f6e7c18f3ca5926770da0a1d41f582ec@bitrix
 SUMMARY:Открытый фестиваль-конкурс современного танца «360»
 DESCRIPTION:
 LOCATION:
@@ -1905,7 +1905,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261009T040000Z
 DTEND;VALUE=DATE-TIME:20261009T130000Z
 DTSTAMP:20251121T032400Z
-UID:145ee6c8c1c4337e6ddbf8df8801122b@bitrix
+UID:522ad84d6a7462423326ac6b78ab6832@bitrix
 SUMMARY:Открытый фестиваль-конкурс современного танца «360»
 DESCRIPTION:
 LOCATION:
@@ -1917,7 +1917,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261106T040000Z
 DTEND;VALUE=DATE-TIME:20261106T130000Z
 DTSTAMP:20251121T032600Z
-UID:d9130f934ddca1058e9cfdec9f9cd0d0@bitrix
+UID:c1b1c3cf502c103d11fd9b818b74aa4a@bitrix
 SUMMARY:Музыкальный фестиваль «Ямолод.хит»
 DESCRIPTION:
 LOCATION:
@@ -1929,7 +1929,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261107T040000Z
 DTEND;VALUE=DATE-TIME:20261107T130000Z
 DTSTAMP:20251121T032800Z
-UID:dc2ef9e8f0bdd35bbfb2fe2229223069@bitrix
+UID:8714cda4f691d8e1ea0c2b9659c475b9@bitrix
 SUMMARY:Музыкальный фестиваль «Ямолод.хит»
 DESCRIPTION:
 LOCATION:
@@ -1941,7 +1941,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261108T040000Z
 DTEND;VALUE=DATE-TIME:20261108T130000Z
 DTSTAMP:20251121T032900Z
-UID:7acb7ead886c2dcc1c92a4bda44c4454@bitrix
+UID:dc3b8a32cc15c47cc7adc259de4abaea@bitrix
 SUMMARY:Музыкальный фестиваль «Ямолод.хит»
 DESCRIPTION:
 LOCATION:
@@ -1953,7 +1953,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261109T040000Z
 DTEND;VALUE=DATE-TIME:20261109T130000Z
 DTSTAMP:20251121T032900Z
-UID:f03273023e113b99596a2ee8cea0b24a@bitrix
+UID:9215141121b3ec8be2a6775d33b327e7@bitrix
 SUMMARY:Музыкальный фестиваль «Ямолод.хит»
 DESCRIPTION:
 LOCATION:
@@ -1965,7 +1965,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261216T040000Z
 DTEND;VALUE=DATE-TIME:20261216T160000Z
 DTSTAMP:20251121T033000Z
-UID:a236e61de409fd616d41d5709fe4d258@bitrix
+UID:77f74fac18a6565c9a86e468edfd1a3d@bitrix
 SUMMARY:Ямальский театральный фестиваль
 DESCRIPTION:
 LOCATION:
@@ -1977,7 +1977,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261217T040000Z
 DTEND;VALUE=DATE-TIME:20261217T160000Z
 DTSTAMP:20251121T033200Z
-UID:7aaaff28a8e03687d0b3934c0e13a150@bitrix
+UID:2cddd69cf943c1701d44c09dde966099@bitrix
 SUMMARY:Ямальский театральный фестиваль
 DESCRIPTION:
 LOCATION:
@@ -1989,7 +1989,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261218T040000Z
 DTEND;VALUE=DATE-TIME:20261218T160000Z
 DTSTAMP:20251121T033300Z
-UID:aeb618d768d2624ff85aac83573db5a6@bitrix
+UID:0a16a2c2059b370c608d091ec4e96c1f@bitrix
 SUMMARY:Ямальский театральный фестиваль
 DESCRIPTION:
 LOCATION:
@@ -2001,7 +2001,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261219T040000Z
 DTEND;VALUE=DATE-TIME:20261219T130000Z
 DTSTAMP:20251121T033400Z
-UID:6f77b14cd2195fc9e3bab867315cbb89@bitrix
+UID:4d420d9c6011a9b0892ed442b603de34@bitrix
 SUMMARY:Ямальский театральный фестиваль
 DESCRIPTION:
 LOCATION:
@@ -2013,7 +2013,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260106T140000Z
 DTEND;VALUE=DATE-TIME:20260106T180000Z
 DTSTAMP:20251126T051000Z
-UID:03112eabac0ba979b84b1864035f5c64@bitrix
+UID:49477bf06f266987d8331cea12efb508@bitrix
 SUMMARY:"ДНК" вокальная студия Регулярные занятия
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20260113;WKST=MO
@@ -2026,7 +2026,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260108T140000Z
 DTEND;VALUE=DATE-TIME:20260108T180000Z
 DTSTAMP:20251126T051100Z
-UID:369eb62b39bc569d47b122fc004d1cdc@bitrix
+UID:88e81d9b9416fade8b13861bfb3fdd80@bitrix
 SUMMARY:"ДНК" Вокальная студия Регулярные занятия
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20260115;WKST=MO
@@ -2039,7 +2039,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260105T130000Z
 DTEND;VALUE=DATE-TIME:20260105T160000Z
 DTSTAMP:20260114T032700Z
-UID:3a025b34d4bd92ebb9f662063c37e0cd@bitrix
+UID:462e6f2a959d1122b48305413b54d99d@bitrix
 SUMMARY:"Импро.Арктик" театр импровизации Регулярные занятия
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;UNTIL=20260119;WKST=MO
@@ -2052,7 +2052,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260107T130000Z
 DTEND;VALUE=DATE-TIME:20260107T160000Z
 DTSTAMP:20260114T033100Z
-UID:39e0d6de48686ec37c53f1e6ea925d0c@bitrix
+UID:2203d8464c21d3738c624ef1f8d3cb5c@bitrix
 SUMMARY:"Импро.Арктик" театр импровизации Регулярные занятия
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20260121;WKST=MO
@@ -2065,7 +2065,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260113T140000Z
 DTEND;VALUE=DATE-TIME:20260113T170000Z
 DTSTAMP:20260114T032800Z
-UID:c0d4fcb55f1e561cf1f8fb9573d0c318@bitrix
+UID:988f8535c38c59a24f3ce82d515baa4e@bitrix
 SUMMARY:"ДНК" вокальная студия Регулярные занятия
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20260120;WKST=MO
@@ -2078,7 +2078,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260115T140000Z
 DTEND;VALUE=DATE-TIME:20260115T170000Z
 DTSTAMP:20260114T033200Z
-UID:27e87d9e1b730a9a7ea5c85cfab6059d@bitrix
+UID:e9bde1ff72fccbb5c69aa3793586632b@bitrix
 SUMMARY:"ДНК" вокальная студия Регулярные занятия
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20260122;WKST=MO
@@ -2091,7 +2091,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251123T113000Z
 DTEND;VALUE=DATE-TIME:20251123T180000Z
 DTSTAMP:20251122T135300Z
-UID:cb4b9f9f525092221a46e28ba08b386b@bitrix
+UID:024fdf6474307ab72c78a6a2ac3b8182@bitrix
 SUMMARY:Штаб оргов Ямолод.Конф (регионы)
 DESCRIPTION:
 LOCATION:
@@ -2103,7 +2103,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251127T030000Z
 DTEND;VALUE=DATE-TIME:20251127T103000Z
 DTSTAMP:20251126T080700Z
-UID:799ebee2b4c28e1ee187657c7ca7573c@bitrix
+UID:9041c8bc269e8eb1fd315bf0bf6b80d0@bitrix
 SUMMARY:Ямолод.Конф (регионы)
 DESCRIPTION:
 LOCATION:
@@ -2115,7 +2115,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251219T080000Z
 DTEND;VALUE=DATE-TIME:20251219T140000Z
 DTSTAMP:20251126T053700Z
-UID:c29836a1e417be05c52456895363fa2f@bitrix
+UID:1ebb8a3ccce3634cd5bde31a47d3cdb4@bitrix
 SUMMARY:Лаборатория Т. Макарова
 DESCRIPTION:
 LOCATION:
@@ -2127,7 +2127,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251129T060000Z
 DTEND;VALUE=DATE-TIME:20251129T090000Z
 DTSTAMP:20251203T104400Z
-UID:15065659f8a603353524bdb9fe102fc0@bitrix
+UID:715ae3da6405ce87839b7a42ed461b6f@bitrix
 SUMMARY:ДНК
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20251227;WKST=MO
@@ -2140,7 +2140,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251202T130000Z
 DTEND;VALUE=DATE-TIME:20251202T170000Z
 DTSTAMP:20251201T065000Z
-UID:84ba8ec99f69ad7b93fb0f3607bb2e77@bitrix
+UID:36bdb6b1dfe25afec030ba647804332d@bitrix
 SUMMARY:ДНК
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20251227;WKST=MO
@@ -2153,7 +2153,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251204T050000Z
 DTEND;VALUE=DATE-TIME:20251204T060000Z
 DTSTAMP:20251202T072600Z
-UID:b4d3b91f71c90776834fc971b4651b78@bitrix
+UID:f021a11b7c03f6df8cd680425541bd4b@bitrix
 SUMMARY:Защита кандидатов в резиденты
 DESCRIPTION:
 LOCATION:
@@ -2165,7 +2165,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251203T140000Z
 DTEND;VALUE=DATE-TIME:20251203T153000Z
 DTSTAMP:20251203T075800Z
-UID:03a9becbffa1cd3647350807667d8e4d@bitrix
+UID:7a9d77f153ab8bb29c3ead04a53b23ff@bitrix
 SUMMARY:Подготовка к Дню инклюзии/Тишкина
 DESCRIPTION:
 LOCATION:
@@ -2177,7 +2177,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251205T140000Z
 DTEND;VALUE=DATE-TIME:20251205T153000Z
 DTSTAMP:20251202T093700Z
-UID:050b61b586809180c50ffd570fb49ded@bitrix
+UID:a9a55321261a5079d6e5e0add7bb1998@bitrix
 SUMMARY:Репетиция НГ (Женя, Тим, Маша) Снежки
 DESCRIPTION:
 LOCATION:
@@ -2189,7 +2189,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251205T150000Z
 DTEND;VALUE=DATE-TIME:20251205T160000Z
 DTSTAMP:20251204T113400Z
-UID:1835b4a1491a686240f15a7d6eab7ec7@bitrix
+UID:e26823d0e89aa28f9785732fdd0d1557@bitrix
 SUMMARY:Репетиция Маленького принца
 DESCRIPTION:
 LOCATION:
@@ -2201,7 +2201,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251221T070000Z
 DTEND;VALUE=DATE-TIME:20251221T130000Z
 DTSTAMP:20251218T082000Z
-UID:c326e1d05723878dd3f21ab26c73579d@bitrix
+UID:bd3c10608b59749a5b412e6577e0e003@bitrix
 SUMMARY:Школа ЯМ // Геймдизайн
 DESCRIPTION:
 LOCATION:Медиа-студия Хаба (2 этаж)
@@ -2213,7 +2213,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251226T130000Z
 DTEND;VALUE=DATE-TIME:20251226T170000Z
 DTSTAMP:20251212T030200Z
-UID:51babf4ef84fc02808f56feda098524d@bitrix
+UID:6c1935e389f749522ddea3abd7b2af85@bitrix
 SUMMARY:Мероприятие Темченко
 DESCRIPTION:
 LOCATION:
@@ -2225,7 +2225,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251212T073000Z
 DTEND;VALUE=DATE-TIME:20251212T170000Z
 DTSTAMP:20251212T054800Z
-UID:c8dfd6b7b3219f097ff7037343d95fc2@bitrix
+UID:ce4b4c6fa889853413947d56025f7648@bitrix
 SUMMARY:Стратегическая сессия по вопросам развития механизмов и инструментов в подготовке специалистов по работе с молодёжью в субъектах РФ // Караваева // Лабунская
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2237,7 +2237,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251213T073000Z
 DTEND;VALUE=DATE-TIME:20251214T103000Z
 DTSTAMP:20251212T055000Z
-UID:55e9ec6e87d777204fcff443d51503d1@bitrix
+UID:20926402b008245b99f8610d16fa1a62@bitrix
 SUMMARY:Стратегическая сессия по вопросам развития механизмов и инструментов в подготовке специалистов по работе с молодёжью в субъектах РФ // Караваева // Лабунская
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2249,7 +2249,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251227T080000Z
 DTEND;VALUE=DATE-TIME:20251227T130000Z
 DTSTAMP:20251222T061800Z
-UID:f0fc802157d0d40503a0a5b00222fc84@bitrix
+UID:8b43aa1ce4a3f5cb0ea45aa035bd3ba9@bitrix
 SUMMARY:Импров. Арктик привоз ЭКСПЕРТА
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2261,7 +2261,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20251227T143000Z
 DTEND;VALUE=DATE-TIME:20251227T153000Z
 DTSTAMP:20251222T061800Z
-UID:74f9c3e4f7a8393dbfc171ba68f88e7e@bitrix
+UID:0fb458dd76cafa5df7cc3e5b6e84b64f@bitrix
 SUMMARY:Импров. Арктик ШОУ (закрытое)
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2273,7 +2273,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260103T093000Z
 DTEND;VALUE=DATE-TIME:20260103T120000Z
 DTSTAMP:20251230T050900Z
-UID:069e602b53729950c21257f1c4373cad@bitrix
+UID:50485a63d55a8666bfd07115bf0cdcb5@bitrix
 SUMMARY:ИмпровАрктик
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2285,7 +2285,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260110T093000Z
 DTEND;VALUE=DATE-TIME:20260110T120000Z
 DTSTAMP:20251230T051000Z
-UID:5a355653f5a39fb12b5fd850a97e3b31@bitrix
+UID:37041b84e87215884dd63fb49f1fe78f@bitrix
 SUMMARY:"Импро.Арктик" театр импровизации Регулярные занятия
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2297,7 +2297,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260118T093000Z
 DTEND;VALUE=DATE-TIME:20260118T140000Z
 DTSTAMP:20260114T040800Z
-UID:5b164849f0801f6b21761951aa7f8a1b@bitrix
+UID:0bba3e7944fdeced082bcc6a3e94850a@bitrix
 SUMMARY:ИмпровАрктик
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2309,7 +2309,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260115T140000Z
 DTEND;VALUE=DATE-TIME:20260115T170000Z
 DTSTAMP:20260113T064200Z
-UID:793b1ad5cb07587fcf1d9811f3c6942b@bitrix
+UID:c33f5b37a063ef6ebffcc95db134dc49@bitrix
 SUMMARY:Тишкина репетиция открытия года Героев
 DESCRIPTION:
 LOCATION:
@@ -2321,7 +2321,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260126T040000Z
 DTEND;VALUE=DATE-TIME:20260126T130000Z
 DTSTAMP:20260120T065000Z
-UID:f95e6a323605dc4a8c1108048198e857@bitrix
+UID:1e18cb84b4f19e6bf69cfb0156dfb2f9@bitrix
 SUMMARY:Стажёры и наставники. отв.  Лабунская/Казакова
 DESCRIPTION:
 LOCATION:Арт-резиденция Медиастудия
@@ -2333,7 +2333,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260121T130000Z
 DTEND;VALUE=DATE-TIME:20260121T160000Z
 DTSTAMP:20260513T025500Z
-UID:77dc4c0e1e80748e0f12d1738fbe192b@bitrix
+UID:b49a506c359ba79b8ea5496aa07bc848@bitrix
 SUMMARY:"Импро.Арктик" театр импровизации Регулярные занятия
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20260513;WKST=MO
@@ -2346,7 +2346,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260213T070000Z
 DTEND;VALUE=DATE-TIME:20260213T130000Z
 DTSTAMP:20260119T081500Z
-UID:f710e90ddbe6f841572a25749dfe2b06@bitrix
+UID:4502cbf69a3b5cc9273a574ae055dacf@bitrix
 SUMMARY:Демонтаж выставки Т. Макаровой. Монтаж выставки О. Киселёвой
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2358,7 +2358,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260213T133000Z
 DTEND;VALUE=DATE-TIME:20260213T143000Z
 DTSTAMP:20260211T015000Z
-UID:0fa2032a7bb0a67aa3c73cc9d82163d5@bitrix
+UID:1fb7fd29650554827c0b6dd634827af8@bitrix
 SUMMARY:Открытие выставки О. Киселёвой
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2370,7 +2370,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260123T140000Z
 DTEND;VALUE=DATE-TIME:20260123T160000Z
 DTSTAMP:20260119T094000Z
-UID:b9ab19f66bec6b38b57781539acd0308@bitrix
+UID:d71757e4fc9680e9da31305f5892fa50@bitrix
 SUMMARY:Импро.Арктик
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2382,7 +2382,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260124T110000Z
 DTEND;VALUE=DATE-TIME:20260124T140000Z
 DTSTAMP:20260119T094100Z
-UID:675222b0168ecd60d3cf14bad047ada1@bitrix
+UID:1b0fb363fcf6eefa9ac8772f89ec4a95@bitrix
 SUMMARY:"Импро.Арктик" театр импровизации Регулярные занятия
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2394,7 +2394,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260125T110000Z
 DTEND;VALUE=DATE-TIME:20260125T140000Z
 DTSTAMP:20260119T094100Z
-UID:357f14adc4dcfc3f46b2f8f1a22b205b@bitrix
+UID:24d4e42873b0ef7125f28e15e7f0d207@bitrix
 SUMMARY:Импро.Арктик
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2406,7 +2406,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260201T110000Z
 DTEND;VALUE=DATE-TIME:20260201T140000Z
 DTSTAMP:20260119T094300Z
-UID:69f8e1296024bec3b7e56907ed21614f@bitrix
+UID:602daf986d48aa0c978862ded64301e2@bitrix
 SUMMARY:Импро.Арктик
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2418,7 +2418,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260130T130000Z
 DTEND;VALUE=DATE-TIME:20260130T150000Z
 DTSTAMP:20260119T094900Z
-UID:23e314acd2a7085706a3bce046bab461@bitrix
+UID:8863276d2601cafc17de783f868c4b10@bitrix
 SUMMARY:Импро.Арктик
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2430,7 +2430,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260215T110000Z
 DTEND;VALUE=DATE-TIME:20260215T130000Z
 DTSTAMP:20260205T031700Z
-UID:659c8044599642c2331a4f9d4c6e991c@bitrix
+UID:0aefb38d99f6de7804f45a6cba2a36fd@bitrix
 SUMMARY:Школа вожатых Ямала // Карсанов // Лабунская
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2442,7 +2442,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260220T133000Z
 DTEND;VALUE=DATE-TIME:20260220T153000Z
 DTSTAMP:20260205T031400Z
-UID:2f629948f115d7d21d20b661c5777087@bitrix
+UID:9e8f649257f6fa7e1cda83367df23713@bitrix
 SUMMARY:Школа вожатых Ямала // Карсанов // Лабунская
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2454,7 +2454,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260320T133000Z
 DTEND;VALUE=DATE-TIME:20260320T153000Z
 DTSTAMP:20260205T032600Z
-UID:e94df8c367e33a141f9ccf841178f400@bitrix
+UID:50ad393e3ae70e89bf573b7af2518896@bitrix
 SUMMARY:Школа вожатых Ямала // Карсанов // Картель
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2466,7 +2466,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260207T070000Z
 DTEND;VALUE=DATE-TIME:20260207T090000Z
 DTSTAMP:20260203T010800Z
-UID:e464e83a7d4fbf3821e4ea167e73edf5@bitrix
+UID:296e3379f4372c1dd7d99e9182d3605a@bitrix
 SUMMARY:Благотворительный марафон
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2478,7 +2478,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260308T120000Z
 DTEND;VALUE=DATE-TIME:20260308T160000Z
 DTSTAMP:20260205T032400Z
-UID:c1903636ea80a70da4107dbc0d3b296b@bitrix
+UID:c20fa49c789f73a686bc57f74f06e69a@bitrix
 SUMMARY:Школя вожатых Ямала // Карсанов // Картель
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2490,7 +2490,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260216T060000Z
 DTEND;VALUE=DATE-TIME:20260216T070000Z
 DTSTAMP:20260205T024100Z
-UID:0ce88914527d8b11f0882b33255c5887@bitrix
+UID:009be33d56148d2e34e029e8443eb361@bitrix
 SUMMARY:Р // Форум отчетно-программной кампании партии Единая Россия // Беликова // Лабунская
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2502,7 +2502,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260331T040000Z
 DTEND;VALUE=DATE-TIME:20260331T133000Z
 DTSTAMP:20260205T033000Z
-UID:7bfdfb60a7122254bb8019e8db315fd5@bitrix
+UID:07bb3a1464f22abe57c0a2282d54eb49@bitrix
 SUMMARY:Р // Семинар Ямолод.Инициативы для мун. координаторов по развитию соц.проектирования // Иванова // Картель
 DESCRIPTION:
 RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20260404;WKST=MO
@@ -2515,7 +2515,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260206T090000Z
 DTEND;VALUE=DATE-TIME:20260206T130000Z
 DTSTAMP:20260203T102600Z
-UID:272de0ffb58bfd174fc52486107cebdf@bitrix
+UID:337f4d8dfc61a90344d588d979bb10c0@bitrix
 SUMMARY:Пятничный лекторий "Архитектура образовательных программ" // Шустовских
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2527,7 +2527,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260208T100000Z
 DTEND;VALUE=DATE-TIME:20260208T120000Z
 DTSTAMP:20260203T011000Z
-UID:9aacb228a93883d5a2d306ee3ec11f89@bitrix
+UID:660f8a80f19cc7f2598bb517c7a203f6@bitrix
 SUMMARY:Благотворительный марафон
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2539,7 +2539,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260208T121500Z
 DTEND;VALUE=DATE-TIME:20260208T141500Z
 DTSTAMP:20260203T034800Z
-UID:82a405698ba53294c296367a7b41539a@bitrix
+UID:8b9f4d429cc7d82c539e2e8ed5aa06df@bitrix
 SUMMARY:"Импро.Арктик" театр импровизации Регулярные занятия
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2551,7 +2551,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260205T053000Z
 DTEND;VALUE=DATE-TIME:20260205T060000Z
 DTSTAMP:20260204T091600Z
-UID:aa1db7e37786077e41e2582e2d6ea802@bitrix
+UID:e9f1dc2d67f4f123c9333eb4fd247d08@bitrix
 SUMMARY:Важный разговор
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2563,7 +2563,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260503T080000Z
 DTEND;VALUE=DATE-TIME:20260503T160000Z
 DTSTAMP:20260204T095300Z
-UID:ed0f3893b54dfae34b5df738778e7e40@bitrix
+UID:7d71be891f7e6c5995ff44d283aab69e@bitrix
 SUMMARY:"Импров.Арктик" театр импровизации ИНТЕНСИВ
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2575,7 +2575,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260205T060000Z
 DTEND;VALUE=DATE-TIME:20260205T130000Z
 DTSTAMP:20260205T040900Z
-UID:913fe32c9e72a7fc5fc4dcd13e8f2816@bitrix
+UID:a3721197e1ea907ee6e28a800b9abd8d@bitrix
 SUMMARY:запись интервью для фильма про юбилей
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2587,7 +2587,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260214T070000Z
 DTEND;VALUE=DATE-TIME:20260214T090000Z
 DTSTAMP:20260205T062400Z
-UID:2c99eb3a2c41cf4d34c792366809bbda@bitrix
+UID:9f4ccf614439902c011cde623938e142@bitrix
 SUMMARY:Мастер-класс Киселёва
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2599,7 +2599,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260211T040000Z
 DTEND;VALUE=DATE-TIME:20260211T070000Z
 DTSTAMP:20260210T074800Z
-UID:165e6d8616aad97d575708577176fb83@bitrix
+UID:43fe189cd70b66cb7a162c7fe2258c57@bitrix
 SUMMARY:Геймдизайн Школа ЯМ
 DESCRIPTION:
 LOCATION:Медиа-студия Хаба (2 этаж)
@@ -2611,7 +2611,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260217T120000Z
 DTEND;VALUE=DATE-TIME:20260217T130000Z
 DTSTAMP:20260211T093300Z
-UID:c9f53e116aa8653435af91dab7a53660@bitrix
+UID:2d810b9c6a46309bf45b6925b09c6ba2@bitrix
 SUMMARY:Генерация идей + создание карты проекта/С. Иванова
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2623,7 +2623,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260216T100000Z
 DTEND;VALUE=DATE-TIME:20260216T113000Z
 DTSTAMP:20260216T014400Z
-UID:9458b62b25823a5a015f8308ae6a3b81@bitrix
+UID:8ed78e2b834e9d52382002f9660a8783@bitrix
 SUMMARY:ГПД
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2635,7 +2635,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260223T130000Z
 DTEND;VALUE=DATE-TIME:20260223T160000Z
 DTSTAMP:20260216T063100Z
-UID:5b655fbf7b11b1d03c1710f42dafb751@bitrix
+UID:488f3d37779a76e620e0ebfc7cc07da9@bitrix
 SUMMARY:В. Горшкова "Заметки"
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2647,7 +2647,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260216T130000Z
 DTEND;VALUE=DATE-TIME:20260216T160000Z
 DTSTAMP:20260216T063200Z
-UID:9f76e0d4c0cf16085421c3eb2b83449c@bitrix
+UID:b51b782d524b22982f2636cea0f15fcc@bitrix
 SUMMARY:В. Горшкова "Заметки"
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2659,7 +2659,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260218T130000Z
 DTEND;VALUE=DATE-TIME:20260218T160000Z
 DTSTAMP:20260216T063200Z
-UID:c72c454062c7f7199c9da3993bb374ae@bitrix
+UID:cb687b31204952c3e3e74bbd927db2c1@bitrix
 SUMMARY:В. Горшкова "Заметки"
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2671,7 +2671,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260221T140000Z
 DTEND;VALUE=DATE-TIME:20260221T170000Z
 DTSTAMP:20260216T063300Z
-UID:c76d11123e6c863351e8372118a4aeb4@bitrix
+UID:1b294239589d904fb764fd9c027a2517@bitrix
 SUMMARY:В. Горшкова "Заметки"
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2683,7 +2683,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261127T033000Z
 DTEND;VALUE=DATE-TIME:20261127T170000Z
 DTSTAMP:20260217T070600Z
-UID:35c559d6840dd2839e59f2ecf88fee5d@bitrix
+UID:94ecc0a3ef13a47aed102aa3c035550a@bitrix
 SUMMARY:ПРЕДВАРИТЕЛЬНО Р // Открытая конференция по воспитанию  «Ямолод.конф» // Новожилова //
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2695,7 +2695,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261128T033000Z
 DTEND;VALUE=DATE-TIME:20261128T170000Z
 DTSTAMP:20260217T070600Z
-UID:432cb4e14846b5246f3218174c5a2a21@bitrix
+UID:a764fa64de9372c1cfbc5ceaa4573953@bitrix
 SUMMARY:ПРЕДВАРИТЕЛЬНО Р // Открытая конференция по воспитанию  «Ямолод.конф» // Новожилова //
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2707,7 +2707,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261129T033000Z
 DTEND;VALUE=DATE-TIME:20261129T170000Z
 DTSTAMP:20260217T070600Z
-UID:ffc9d8acb2858dfb113ef097884e91fc@bitrix
+UID:f8ca4d5eb8d066e2df8e566be66a9f24@bitrix
 SUMMARY:ПРЕДВАРИТЕЛЬНО Р // Открытая конференция по воспитанию  «Ямолод.конф» // Новожилова //
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2719,7 +2719,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260224T060000Z
 DTEND;VALUE=DATE-TIME:20260224T080000Z
 DTSTAMP:20260217T064600Z
-UID:d5e37754c10ed64981c70c0dae4bf2bd@bitrix
+UID:973fb67cc5d1e1d5a9f9a7f12421d564@bitrix
 SUMMARY:кофе брейк/ Лабунская
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2731,7 +2731,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260224T120000Z
 DTEND;VALUE=DATE-TIME:20260224T140000Z
 DTSTAMP:20260217T064600Z
-UID:342031b08ab38709d3c35848ceeccb5c@bitrix
+UID:835525ab431cbaba5390a30f8972f7ea@bitrix
 SUMMARY:кофе брейк/ Лабунская
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2743,7 +2743,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260219T075000Z
 DTEND;VALUE=DATE-TIME:20260219T090500Z
 DTSTAMP:20260219T022700Z
-UID:d1553b913e2841904a34ba556bb96c62@bitrix
+UID:b671f6f36af43a7c6bd215f7a1395d66@bitrix
 SUMMARY:"ДНК" вокальная студия Регулярные занятия
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2755,7 +2755,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260219T070000Z
 DTEND;VALUE=DATE-TIME:20260219T074500Z
 DTSTAMP:20260219T022900Z
-UID:6035c26be6c091da383f3520b00e1666@bitrix
+UID:7d48bb0ebadd2248ee62acc8a7634e79@bitrix
 SUMMARY:А. Румянцева
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2767,7 +2767,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260220T110000Z
 DTEND;VALUE=DATE-TIME:20260220T120000Z
 DTSTAMP:20260219T040500Z
-UID:805e30eb1ad0fd103b1895d1fab89806@bitrix
+UID:03e3e424672416be0c53bbe9bbed4077@bitrix
 SUMMARY:Рабочая встреча отдела по форумной компании.  ОТВ Либман
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2779,7 +2779,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260430T030000Z
 DTEND;VALUE=DATE-TIME:20260430T170000Z
 DTSTAMP:20260219T074500Z
-UID:a25ae12cb5d099c63ff2268c858b41af@bitrix
+UID:ddcc3af0ee572bf8d52da4bb7a281da3@bitrix
 SUMMARY:Семинар-совещание для руководителей КМФ: Журналистика новых медиа, Медиастудия, Музыкальная студия, Графический дизайн, Саунд дизайн, Комедийное сообщество, Театральная студия)
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2791,7 +2791,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260227T133000Z
 DTEND;VALUE=DATE-TIME:20260227T160000Z
 DTSTAMP:20260226T070800Z
-UID:8dff4980ba2c90cdefab8e8d6b552219@bitrix
+UID:a51497b7c98c69b438542812452dd208@bitrix
 SUMMARY:Предзащита резидентов
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2803,7 +2803,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260226T150000Z
 DTEND;VALUE=DATE-TIME:20260226T180000Z
 DTSTAMP:20260226T073400Z
-UID:b1ccce7a098f89b533aa929620068ab5@bitrix
+UID:e05820e23eed0c946d6df5cdc471a601@bitrix
 SUMMARY:"ДНК" вокальная студия Регулярные занятия
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2815,7 +2815,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260226T140000Z
 DTEND;VALUE=DATE-TIME:20260226T150000Z
 DTSTAMP:20260226T073500Z
-UID:4057983c257a65ba886a380331c93397@bitrix
+UID:67ef50f786b080b08e72e4f94ba4dd70@bitrix
 SUMMARY:Репетиция К. Тишкиной
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2827,7 +2827,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260306T120000Z
 DTEND;VALUE=DATE-TIME:20260306T130000Z
 DTSTAMP:20260303T014300Z
-UID:cde5c6ac407c750a6b987b20f4e615f7@bitrix
+UID:2830b9fa176422b2f3c96e383db100d0@bitrix
 SUMMARY:Лаборатория короткой формы импровизации «Слово за слово» / Лавренов / Скнарь
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2839,7 +2839,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260307T090000Z
 DTEND;VALUE=DATE-TIME:20260307T160000Z
 DTSTAMP:20260303T014400Z
-UID:f39db677c3126a1da3857803bfcfb2f7@bitrix
+UID:2300c64d10b65f18971b257c2a095399@bitrix
 SUMMARY:Лаборатория короткой формы импровизации «Слово за слово» / Лавренов / Скнарь
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2851,7 +2851,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260309T080000Z
 DTEND;VALUE=DATE-TIME:20260309T140000Z
 DTSTAMP:20260303T014700Z
-UID:32f09166d20cd2bdef6848b5b0b4c950@bitrix
+UID:c921bc515988717cb28e055035b59eb4@bitrix
 SUMMARY:Лаборатория короткой формы импровизации «Слово за слово» / Лавренов / Скнарь
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2863,7 +2863,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260418T060000Z
 DTEND;VALUE=DATE-TIME:20260418T073000Z
 DTSTAMP:20260318T065200Z
-UID:9a04b81a107f3100945cb0d1bae0a6af@bitrix
+UID:6d55b50b7ad3c1b5675aa7b03602c4a6@bitrix
 SUMMARY:Кофе брейк / Лабунская
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2875,7 +2875,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260317T143000Z
 DTEND;VALUE=DATE-TIME:20260317T173000Z
 DTSTAMP:20260303T064300Z
-UID:b0eff705f90637e5a1fb49c9fa4a6713@bitrix
+UID:0f339873121d3b55fa148217970f3fbb@bitrix
 SUMMARY:"ДНК" вокальная студия Регулярные занятия
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2887,7 +2887,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260317T130000Z
 DTEND;VALUE=DATE-TIME:20260317T143000Z
 DTSTAMP:20260317T061500Z
-UID:38c78016579245709538e94a5da2cd77@bitrix
+UID:e3f0e633029c22396eaa103b4f72b804@bitrix
 SUMMARY:М.к. в рамках Конференции
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2899,7 +2899,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260305T043000Z
 DTEND;VALUE=DATE-TIME:20260305T050000Z
 DTSTAMP:20260304T072600Z
-UID:cf0b51c268a9d4ade42e64d0f5add2d5@bitrix
+UID:2e3356a861524a26fecedbeade28ea90@bitrix
 SUMMARY:Деловая встреча
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2911,7 +2911,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260304T132000Z
 DTEND;VALUE=DATE-TIME:20260304T160000Z
 DTSTAMP:20260304T102000Z
-UID:5805531f56e99b8d82d66d52168421f2@bitrix
+UID:dbdd8614fd36e79103275084e18646f5@bitrix
 SUMMARY:Костюмерка  для Сырасэв
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2923,7 +2923,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260305T130000Z
 DTEND;VALUE=DATE-TIME:20260305T170000Z
 DTSTAMP:20260305T032900Z
-UID:6e3e8f237b0cfc2d2fa9dc46c4cd1eb0@bitrix
+UID:560c4eed3e4595cf51445d0593007eed@bitrix
 SUMMARY:регулярные занятия "ДНК"
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2935,7 +2935,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260313T140000Z
 DTEND;VALUE=DATE-TIME:20260313T180000Z
 DTSTAMP:20260311T031900Z
-UID:c8db41984daa0d7adab73f1a92c66d1d@bitrix
+UID:04878a33b40afa9a2a63e0c4988d992e@bitrix
 SUMMARY:Р // Итоговая конференция департамента будущего Ямолод.конф // Темченко
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2947,7 +2947,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260315T044000Z
 DTEND;VALUE=DATE-TIME:20260315T140000Z
 DTSTAMP:20260311T031900Z
-UID:9b93092e9525d3a94d2241daa3ec2b35@bitrix
+UID:de9b09dfe7114167d592e3306b88b4f7@bitrix
 SUMMARY:Р // Итоговая конференция департамента будущего Ямолод.конф // Темченко
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2959,7 +2959,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260322T090000Z
 DTEND;VALUE=DATE-TIME:20260322T110000Z
 DTSTAMP:20260409T103500Z
-UID:a26ca9e740b749c8a702937460460f35@bitrix
+UID:48101e6e6837e3a5905893789954576b@bitrix
 SUMMARY:"Импро.Арктик" театр импровизации Регулярные занятия
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SU;UNTIL=20260419;WKST=MO
@@ -2972,7 +2972,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260323T130000Z
 DTEND;VALUE=DATE-TIME:20260323T160000Z
 DTSTAMP:20260311T105200Z
-UID:b00092caebf5ac0505df356732916fed@bitrix
+UID:39e1350460494d81c1f5f6edcad3a156@bitrix
 SUMMARY:"Импро.Арктик" театр импровизации Регулярные занятия
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -2984,7 +2984,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260312T074500Z
 DTEND;VALUE=DATE-TIME:20260312T090000Z
 DTSTAMP:20260409T140400Z
-UID:acb42132f2dc245739cfb5f7b67d828c@bitrix
+UID:bdedbe990352fcda5555ec867250de96@bitrix
 SUMMARY:"ДНК" вокальная студия Регулярные занятия
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20260423;WKST=MO
@@ -2997,7 +2997,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260312T123000Z
 DTEND;VALUE=DATE-TIME:20260312T140000Z
 DTSTAMP:20260312T015800Z
-UID:e9352048b3336de776849b835cb1da05@bitrix
+UID:e7d3f1d166e2ca1d806ec8d7942e15e2@bitrix
 SUMMARY:Репетиция капустника / М. Краснов
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3009,7 +3009,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260326T030000Z
 DTEND;VALUE=DATE-TIME:20260326T180000Z
 DTSTAMP:20260318T005000Z
-UID:a0dc3e5104de888cc8e5e7827214124a@bitrix
+UID:ae838afbdc533fa7f3e436d0e890abde@bitrix
 SUMMARY:IV образовательный модуль Программы развития кадрового управленческого резерва в области науки, технологий и высшего образования: «Природно-ресурсный потенциал Ямала – вызовы и возможности»
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3021,7 +3021,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260327T030000Z
 DTEND;VALUE=DATE-TIME:20260327T180000Z
 DTSTAMP:20260318T005300Z
-UID:3aa174de7e550caa94bb6fc2552339bb@bitrix
+UID:b268cf3eb7fca922349dcadcb324acd7@bitrix
 SUMMARY:IV образовательный модуль Программы развития кадрового управленческого резерва в области науки, технологий и высшего образования: «Природно-ресурсный потенциал Ямала – вызовы и возможности»
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3033,7 +3033,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260412T123000Z
 DTEND;VALUE=DATE-TIME:20260412T153000Z
 DTSTAMP:20260327T091000Z
-UID:39f3f48d87446c77d151bd0b6a785305@bitrix
+UID:63fa72140c82540f7513ea8ab34f9797@bitrix
 SUMMARY:Импров.Арктик Шоу
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3045,7 +3045,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260324T063000Z
 DTEND;VALUE=DATE-TIME:20260324T073000Z
 DTSTAMP:20260324T034900Z
-UID:067fa73b7412c4afba62f1bd0f62a4dc@bitrix
+UID:ef12e5b9a199442d9c23d2162ec228f5@bitrix
 SUMMARY:"ДНК" вокальная студия Регулярные занятия
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20260331;WKST=MO
@@ -3058,7 +3058,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260325T100000Z
 DTEND;VALUE=DATE-TIME:20260325T130000Z
 DTSTAMP:20260325T041100Z
-UID:1c956ddf7eaa382da417412475838610@bitrix
+UID:16e4cac1ec111e3b7e048a89c1979a67@bitrix
 SUMMARY:Школа ЯМ \\ Геймдизайн
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3070,7 +3070,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260328T140000Z
 DTEND;VALUE=DATE-TIME:20260328T160000Z
 DTSTAMP:20260409T102900Z
-UID:07ce8d8224ac4fadcf8fe59fe799486c@bitrix
+UID:76a5eb023baae5e454304a2ad66add91@bitrix
 SUMMARY:КЛМ Зёздный кадр" регулярные занятия
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20260418;WKST=MO
@@ -3083,7 +3083,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260403T133000Z
 DTEND;VALUE=DATE-TIME:20260403T153000Z
 DTSTAMP:20260331T035200Z
-UID:1773dc0a2c661d7e1ce2b7070a561f6c@bitrix
+UID:91f773fcbca5fe0ccde9351f36956cbd@bitrix
 SUMMARY:Школа вожатых
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3095,7 +3095,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260405T130000Z
 DTEND;VALUE=DATE-TIME:20260405T143000Z
 DTSTAMP:20260331T034600Z
-UID:04bad6898026b3dde6487ef8f164ddcd@bitrix
+UID:551fd3ceab39fe396658bffd9dbe2d05@bitrix
 SUMMARY:Школа вожатых
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3107,7 +3107,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260408T040000Z
 DTEND;VALUE=DATE-TIME:20260408T070000Z
 DTSTAMP:20260409T105300Z
-UID:4dd2984d013b10ff22ab24aae6044a13@bitrix
+UID:1241975c75649761b1527c178e6a2bb8@bitrix
 SUMMARY:Школа ЯМ / Геймдизайн
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20260415;WKST=MO
@@ -3120,7 +3120,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260404T070000Z
 DTEND;VALUE=DATE-TIME:20260404T140000Z
 DTSTAMP:20260409T142300Z
-UID:36ca781a2a2a712987b9874fd213c206@bitrix
+UID:19199f215f5225537a1823c2c4e3321e@bitrix
 SUMMARY:Школа ЯМ/Графический дизайн
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20260411;WKST=MO
@@ -3133,7 +3133,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260412T070000Z
 DTEND;VALUE=DATE-TIME:20260412T130000Z
 DTSTAMP:20260409T103700Z
-UID:cc26df394b144e2b7dc612d87ea71b71@bitrix
+UID:d6f7b13f99cf2b7cb0a1c5b594b5c0e0@bitrix
 SUMMARY:Школа ЯМ/Геймдизайн
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SU;UNTIL=20260419;WKST=MO
@@ -3146,7 +3146,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261114T153500Z
 DTEND;VALUE=DATE-TIME:20261114T173500Z
 DTSTAMP:20260409T102900Z
-UID:41252b7462d313166e9475072148a8da@bitrix
+UID:5c13951e7331b29ffe9f9a3e8b380144@bitrix
 SUMMARY:Зелёный кадр / Медведева
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3158,7 +3158,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260406T040000Z
 DTEND;VALUE=DATE-TIME:20260406T060000Z
 DTSTAMP:20260406T005800Z
-UID:e96e0b3b357cfa0d79f832e26f45eca1@bitrix
+UID:89a7abce4a1f2e0b12e741d63f0509f8@bitrix
 SUMMARY:штурм сессия /  бронь сухов / темченко
 DESCRIPTION:
 LOCATION:
@@ -3170,7 +3170,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260501T100000Z
 DTEND;VALUE=DATE-TIME:20260501T133000Z
 DTSTAMP:20260424T015400Z
-UID:2e5fb1bfa230dc8f641c83ab1b29a190@bitrix
+UID:8c5c2cc7373c9c870ce1476b3b5fa3ce@bitrix
 SUMMARY:Вечер поэтического клуба Салехарда "Начать сначала". Мероприятие с 17:00 до 18:00
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3182,7 +3182,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260419T040000Z
 DTEND;VALUE=DATE-TIME:20260419T070000Z
 DTSTAMP:20260409T103800Z
-UID:2df447b0cfbcf893c67b4f2afbd4a103@bitrix
+UID:59e0f427a4ce5ac451db529956f583f0@bitrix
 SUMMARY:Р // Семинар по основам профилактической работы для специалистов КМФ // Шинкарёв
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3194,7 +3194,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260413T130000Z
 DTEND;VALUE=DATE-TIME:20260413T160000Z
 DTSTAMP:20260806T083400Z
-UID:dfab07de1c875dd6299d35acd3ef259a@bitrix
+UID:db2bd33e452dd517a5e53f53061ab222@bitrix
 SUMMARY:Импров.Арктик / Скнарь
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;UNTIL=20261226;WKST=MO
@@ -3207,7 +3207,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260414T140000Z
 DTEND;VALUE=DATE-TIME:20260414T170000Z
 DTSTAMP:20260504T073500Z
-UID:67b85225af66fe491833d9ba2e32692a@bitrix
+UID:440f804cee580de9227d55d66ed339be@bitrix
 SUMMARY:ДНК / Милютина
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20260505;WKST=MO
@@ -3220,7 +3220,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260416T130000Z
 DTEND;VALUE=DATE-TIME:20260416T160000Z
 DTSTAMP:20260409T140900Z
-UID:de47cb64fa32079a2983ad011d1c5652@bitrix
+UID:f6b443d84af8af6cdfcf495064fbf630@bitrix
 SUMMARY:ШЯ Рук. проектов / Сяха Даваева
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3232,7 +3232,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260411T070000Z
 DTEND;VALUE=DATE-TIME:20260411T140000Z
 DTSTAMP:20260409T142300Z
-UID:86c2d185cd82ffec4ad30eac44f9de69@bitrix
+UID:5ed054b1c0e56e0e1640b925b4b9c9c5@bitrix
 SUMMARY:ШЯ Граф. дизайн / Макарова
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20260418;WKST=MO
@@ -3245,7 +3245,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260414T130000Z
 DTEND;VALUE=DATE-TIME:20260414T160000Z
 DTSTAMP:20260414T081000Z
-UID:2da8ebc635ec48b446bd2966fe69347f@bitrix
+UID:1d23e376690432e426f48e87672bfe67@bitrix
 SUMMARY:Школа ЯМ / Руководители проектов
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3257,7 +3257,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260419T130000Z
 DTEND;VALUE=DATE-TIME:20260419T150000Z
 DTSTAMP:20260416T095400Z
-UID:36b5b2d40be6324c5904a9cce3161296@bitrix
+UID:16810181c812f25b060a310ad8de36c2@bitrix
 SUMMARY:А. Скнарь запись видеовизитки
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3269,7 +3269,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260428T043000Z
 DTEND;VALUE=DATE-TIME:20260428T150000Z
 DTSTAMP:20260428T034200Z
-UID:4486ffff8da7d15b48306c400bcd522c@bitrix
+UID:93ce9e11a56e11de8bb0f9876f181b38@bitrix
 SUMMARY:Семинар-совещание для руководителей КМФ: Журналистика новых медиа, Медиастудия, Музыкальная студия, Графический дизайн, Саунд дизайн, Комедийное сообщество, Театральная студия)
 DESCRIPTION:
 LOCATION:Медиа-студия
@@ -3281,7 +3281,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260429T091500Z
 DTEND;VALUE=DATE-TIME:20260429T160000Z
 DTSTAMP:20260424T034700Z
-UID:0b4cca266c32e64de9eaf6941156740f@bitrix
+UID:e8598bdd77f92bf7156fef66c72b67d8@bitrix
 SUMMARY:Семинар-совещание для руководителей КМФ: Журналистика новых медиа, Медиастудия, Музыкальная студия, Графический дизайн, Саунд дизайн, Комедийное сообщество, Театральная студия)
 DESCRIPTION:
 LOCATION:Медиа-студия
@@ -3293,7 +3293,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260430T090000Z
 DTEND;VALUE=DATE-TIME:20260430T100000Z
 DTSTAMP:20260429T054100Z
-UID:40a68dbf62e1f868ce9efa58800a86ae@bitrix
+UID:7513b8de350711de6ab9901dc5028b61@bitrix
 SUMMARY:Встреча губернатора Ямала со студентами Высшей школы экономики, программа "Госвышка" Картель /
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия
@@ -3305,7 +3305,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260504T063000Z
 DTEND;VALUE=DATE-TIME:20260504T073000Z
 DTSTAMP:20260430T081400Z
-UID:8fc734f202067757837e0321bbad6aff@bitrix
+UID:fcdb95b88ada60218ea42009d072925f@bitrix
 SUMMARY:Совещание по Тавриде
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3317,7 +3317,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260504T050000Z
 DTEND;VALUE=DATE-TIME:20260504T060000Z
 DTSTAMP:20260503T062200Z
-UID:bfb44ec7c89dbb44cfa730b8baa2ad38@bitrix
+UID:6fdc842057e4fb7982e4286ad003ac27@bitrix
 SUMMARY:Еженедельная планёрка отдела
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3329,7 +3329,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260505T080000Z
 DTEND;VALUE=DATE-TIME:20260505T091500Z
 DTSTAMP:20260504T071800Z
-UID:c03a324e6fe6bc9e1b9b87edf105f5b9@bitrix
+UID:775463355ca375377bf9ce7c3b7f023e@bitrix
 SUMMARY:Конференция рег.отделения Движения Первых "Поехали!"
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3341,7 +3341,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260505T133000Z
 DTEND;VALUE=DATE-TIME:20260505T163000Z
 DTSTAMP:20260504T073500Z
-UID:66f2746b6c6780d22ac1e5b292296dae@bitrix
+UID:9e2af225bd1aa02d9e7080b1a7895fb9@bitrix
 SUMMARY:ШЯ Рук.проектов / Сяха Даваева
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20260512;WKST=MO
@@ -3354,7 +3354,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260512T130000Z
 DTEND;VALUE=DATE-TIME:20260512T160000Z
 DTSTAMP:20260630T101300Z
-UID:d05ce392c3cdc123aef32e5378b1f169@bitrix
+UID:448440c236a2c6b49d161f15033b5b03@bitrix
 SUMMARY:ШЯ Рук.проектов / Сяха Даваева
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20270101;WKST=MO
@@ -3367,7 +3367,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260513T073000Z
 DTEND;VALUE=DATE-TIME:20260513T103000Z
 DTSTAMP:20260508T021700Z
-UID:6cc59f2c943103b9a1d13876485d4f6b@bitrix
+UID:d8b8f00be1bb698ca7b82683cbe732b3@bitrix
 SUMMARY:Р // Фестиваль Медиасмена.Дети // Черенков // Мальцева [Занят]
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3379,7 +3379,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260511T070000Z
 DTEND;VALUE=DATE-TIME:20260511T160000Z
 DTSTAMP:20260508T040300Z
-UID:0f64aef5579b63a33000c4c1ffe39202@bitrix
+UID:9087f8502389bdb0d934df754ac23cda@bitrix
 SUMMARY:гримёрка - Отчётный концерт "Выступление на полотнах", Песеговы
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3391,7 +3391,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260510T130000Z
 DTEND;VALUE=DATE-TIME:20260510T160000Z
 DTSTAMP:20260508T041400Z
-UID:159e15164891900162d205fa05992ab4@bitrix
+UID:2a087fa3d2da99ebe6f0f8b84705db1b@bitrix
 SUMMARY:Импров.Арктик - репетиции
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3403,7 +3403,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260512T054000Z
 DTEND;VALUE=DATE-TIME:20260512T063000Z
 DTSTAMP:20260512T015100Z
-UID:2e13d7c2c7edacf7609502c21c45ffcb@bitrix
+UID:ef33f2cf8e5a36fbd220f4b064a02ea0@bitrix
 SUMMARY:Р // Фестиваль Медиасмена.Дети // Черенков // Мальцева
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3415,7 +3415,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260526T040000Z
 DTEND;VALUE=DATE-TIME:20260526T074500Z
 DTSTAMP:20260525T070100Z
-UID:a8a224e13cb33c37875c51bf2bae3c40@bitrix
+UID:cae7c163a7949ce9df4f69a97a6de644@bitrix
 SUMMARY:Выставка Галерейный фонд / Скакун Е.А.
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3427,7 +3427,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260527T040000Z
 DTEND;VALUE=DATE-TIME:20260527T170000Z
 DTSTAMP:20260525T071100Z
-UID:7972156737d1bfd0b913ee49d9be5b41@bitrix
+UID:0cb99f3f53e1d75d1e0d0f7e53f1852a@bitrix
 SUMMARY:Выставка Галерейный фонд / Скакун
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3439,7 +3439,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260528T040000Z
 DTEND;VALUE=DATE-TIME:20260528T170000Z
 DTSTAMP:20260525T080100Z
-UID:5b00da9fd6fb6a6a5eee4351ebf55a81@bitrix
+UID:8106f60e7dcf1c272f061b2bcf30645b@bitrix
 SUMMARY:Выставка Галерейный фонд / Скакун
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3451,7 +3451,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260529T040000Z
 DTEND;VALUE=DATE-TIME:20260529T170000Z
 DTSTAMP:20260525T080400Z
-UID:e37d387d5bf0a6afe2724e4aff54bcc8@bitrix
+UID:d71611e8a025107bce7901379eecf2e3@bitrix
 SUMMARY:Выставка Галерейный фонд / Скакун
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3463,7 +3463,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260530T040000Z
 DTEND;VALUE=DATE-TIME:20260530T170000Z
 DTSTAMP:20260525T080600Z
-UID:170affe6c15ad419655df62625c9bfca@bitrix
+UID:1288ff44e9e073e86d95c6aac9127b42@bitrix
 SUMMARY:Выставка Галерейный фонд / Скакун
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3475,7 +3475,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260601T040000Z
 DTEND;VALUE=DATE-TIME:20260601T170000Z
 DTSTAMP:20260525T081000Z
-UID:8d1aca4e34887dc1cffc63d891ccfde5@bitrix
+UID:46702609977dd53c707fd02bf961d8ac@bitrix
 SUMMARY:Выставка Галерейный фонд / Скакун
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3487,7 +3487,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260603T040000Z
 DTEND;VALUE=DATE-TIME:20260603T170000Z
 DTSTAMP:20260525T081500Z
-UID:706cfa821acdf9fb860bf3d0085ed6e0@bitrix
+UID:f299d963778945da4cf37f456bcb7dd0@bitrix
 SUMMARY:Выставка Галерейный фонд / Скакун
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3499,7 +3499,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260604T040000Z
 DTEND;VALUE=DATE-TIME:20260604T170000Z
 DTSTAMP:20260525T081700Z
-UID:887c74f4abbf5eefd42b385e24defcf3@bitrix
+UID:9d35a62eceb54d47e814571476006980@bitrix
 SUMMARY:Выставка Галерейный фонд / Скакун
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3511,7 +3511,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260605T040000Z
 DTEND;VALUE=DATE-TIME:20260605T170000Z
 DTSTAMP:20260525T081900Z
-UID:c63b7bf7f53d4e42ae7c3f16ceb1f768@bitrix
+UID:15a25a81213afd13b6aeb19df2721e09@bitrix
 SUMMARY:Выставка Галерейный фонд / Скакун
 DESCRIPTION:
 LOCATION:
@@ -3523,7 +3523,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260606T040000Z
 DTEND;VALUE=DATE-TIME:20260606T170000Z
 DTSTAMP:20260525T082300Z
-UID:72aaa679c36bd46839045816ddb57965@bitrix
+UID:b066495cab79ee1086df4468a17dabd7@bitrix
 SUMMARY:Выставка Галерейный фонд / Скакун
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3535,7 +3535,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260607T040000Z
 DTEND;VALUE=DATE-TIME:20260607T170000Z
 DTSTAMP:20260525T082400Z
-UID:4d2972a58c990e8c7f3d84ec5e10fa45@bitrix
+UID:c974ce17ceb3cd0e6ea11b9645352c3c@bitrix
 SUMMARY:Выставка Галерейный фонд / Скакун
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3547,7 +3547,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260608T040000Z
 DTEND;VALUE=DATE-TIME:20260608T110000Z
 DTSTAMP:20260525T082400Z
-UID:eaa43cf5698cda905a45a12836dea059@bitrix
+UID:357c15d8f22f6be9443d323e36b1ffea@bitrix
 SUMMARY:Демонтаж выставки Галерейного фонда
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3559,7 +3559,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260513T140000Z
 DTEND;VALUE=DATE-TIME:20260513T170000Z
 DTSTAMP:20260525T082500Z
-UID:6795f30af6d3fe318b4156af9a97ca62@bitrix
+UID:0e6606a0240c2797e8fbec0eb4f5bf53@bitrix
 SUMMARY:"Импро.Арктик" театр импровизации Регулярные занятия
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20260610;WKST=MO
@@ -3572,7 +3572,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260524T090000Z
 DTEND;VALUE=DATE-TIME:20260524T120000Z
 DTSTAMP:20260522T095400Z
-UID:62418be64c3c5f23f05711bf797dc243@bitrix
+UID:bdcab182b05600a0dee5c0a6e87f27bc@bitrix
 SUMMARY:Студия "Так" мастер-класс
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3584,7 +3584,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260611T130000Z
 DTEND;VALUE=DATE-TIME:20260611T160000Z
 DTSTAMP:20260513T092700Z
-UID:558ad1c2c292648f6b0e90a71211713e@bitrix
+UID:bad5892acff655c841caaac65a1b88f5@bitrix
 SUMMARY:Студия "Так" Юлия Ластавляк
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20260703;WKST=MO
@@ -3597,7 +3597,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260614T090000Z
 DTEND;VALUE=DATE-TIME:20260614T120000Z
 DTSTAMP:20260616T080000Z
-UID:456823792ad0da20f80bd2609c89f6ca@bitrix
+UID:6d085fe8d9291162502cb50a75ece7f2@bitrix
 SUMMARY:Студия "Так", Юлия Ластавляк
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SU;UNTIL=20260706;WKST=MO
@@ -3610,7 +3610,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260516T050000Z
 DTEND;VALUE=DATE-TIME:20260516T070000Z
 DTSTAMP:20260515T091200Z
-UID:4751206efd88bdae48bf889c6f6198c4@bitrix
+UID:a3dff68b27a1462a3e696f311508e8e6@bitrix
 SUMMARY:Мастер-классы по бисероплетению
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3622,7 +3622,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260517T050000Z
 DTEND;VALUE=DATE-TIME:20260517T070000Z
 DTSTAMP:20260515T091300Z
-UID:b7433df5248f6401c77248563f563dfa@bitrix
+UID:1c3dc9a8f39911e9c49893f862643ae9@bitrix
 SUMMARY:Мастер-классы по бисероплетению
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3634,7 +3634,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260519T093000Z
 DTEND;VALUE=DATE-TIME:20260519T103000Z
 DTSTAMP:20260519T060600Z
-UID:770a653a72ba17a63fce968702265d3b@bitrix
+UID:08c5d8813e96e7a848027ae2e2c655c0@bitrix
 SUMMARY:Встреча по ДМ: медиа/дизайн
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3646,7 +3646,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260520T060000Z
 DTEND;VALUE=DATE-TIME:20260520T070000Z
 DTSTAMP:20260518T082200Z
-UID:b13dd46cb32c8944082a07c74eb0a4ef@bitrix
+UID:0cefee01140a97d5f471689dee45a114@bitrix
 SUMMARY:Встреча региональных кураторов
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3658,7 +3658,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260521T063000Z
 DTEND;VALUE=DATE-TIME:20260521T073000Z
 DTSTAMP:20260520T041800Z
-UID:319f506aabb45a0f59e35bdafa00445c@bitrix
+UID:0bd519f06d4548c86aaf068ae07065fb@bitrix
 SUMMARY:Статус распределения задач
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3670,7 +3670,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260522T090000Z
 DTEND;VALUE=DATE-TIME:20260522T103000Z
 DTSTAMP:20260521T080100Z
-UID:f75f8b99108ebf7fca3cc644328427fa@bitrix
+UID:66a8ade56806b66a3ff4cd983a33f344@bitrix
 SUMMARY:Съёмка постановочного эпизода для ролика про экстрим парки Ямала  для публикации в соц сетях Губернатора. съемочная АНО "Ямал-медиа"
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3682,7 +3682,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260523T143000Z
 DTEND;VALUE=DATE-TIME:20260523T163000Z
 DTSTAMP:20260522T095400Z
-UID:248efa47f9ebde39f79e64438f3ac8e5@bitrix
+UID:411dadfabf8aa8a3bfaf315549f78c36@bitrix
 SUMMARY:Зелёный кадр / Медведева
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3694,7 +3694,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260523T073000Z
 DTEND;VALUE=DATE-TIME:20260523T134000Z
 DTSTAMP:20260522T095400Z
-UID:32d729c859e7ccf5f063a4badfb6a570@bitrix
+UID:24d2aedc916df8b94b2baecef0e4d993@bitrix
 SUMMARY:Школа ЯМ/Графический дизайн
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3706,7 +3706,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260523T134000Z
 DTEND;VALUE=DATE-TIME:20260523T143000Z
 DTSTAMP:20260522T095500Z
-UID:82c9be65168ef565b09bdd8cd4b81efd@bitrix
+UID:1e2033341e308c01a78c1862e8a5964b@bitrix
 SUMMARY:Ген прогон мастер класса "Так" Юлия Ластавляк
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3718,7 +3718,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260610T140000Z
 DTEND;VALUE=DATE-TIME:20260610T170000Z
 DTSTAMP:20260806T083400Z
-UID:623256ec18a935843f1442035bfad81f@bitrix
+UID:3dea1843a9b15ee1ba52853ee9ad75d9@bitrix
 SUMMARY:"Импро.Арктик" театр импровизации Регулярные занятия
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20261226;WKST=MO
@@ -3731,7 +3731,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260613T140000Z
 DTEND;VALUE=DATE-TIME:20260613T160000Z
 DTSTAMP:20260525T082500Z
-UID:c8af268fa571f5580ef41f36d036927f@bitrix
+UID:24df48f333c6d584a84627c15f1906b4@bitrix
 SUMMARY:Зелёный кадр / Медведева
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3743,7 +3743,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260614T130000Z
 DTEND;VALUE=DATE-TIME:20260614T160000Z
 DTSTAMP:20260806T083400Z
-UID:4a49da82611a078ef0c5d03a5c0b40b5@bitrix
+UID:e25b980ed24b7e6023da9f08a4c53288@bitrix
 SUMMARY:Импров.Арктик - репетиции
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SU;UNTIL=20261228;WKST=MO
@@ -3756,7 +3756,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260610T100000Z
 DTEND;VALUE=DATE-TIME:20260610T113000Z
 DTSTAMP:20260609T023100Z
-UID:b400e4597c1efc8349a33ec0621f349b@bitrix
+UID:0f5315958c68f8b36061ae1e0054eada@bitrix
 SUMMARY:Летняя смена Домейн / Песеговы
 DESCRIPTION:
 LOCATION:
@@ -3768,7 +3768,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260612T100000Z
 DTEND;VALUE=DATE-TIME:20260612T110000Z
 DTSTAMP:20260609T023200Z
-UID:c669bcbd80e4f56df3426cc757afeff5@bitrix
+UID:574726cd582e8d50b0177c0ca61d94a5@bitrix
 SUMMARY:Летняя смена Домейн / Песеговы
 DESCRIPTION:
 LOCATION:
@@ -3780,7 +3780,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260616T150000Z
 DTEND;VALUE=DATE-TIME:20260616T163000Z
 DTSTAMP:20260611T094100Z
-UID:524266fa40f4bf776725557f56ad72ae@bitrix
+UID:832c6ee88b393f2c81c284429fcb30d4@bitrix
 SUMMARY:Ф // Межведомственная конференция по вопросам воспитания детей и молодёжи // Никулина // Шуклина
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3792,7 +3792,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260620T110000Z
 DTEND;VALUE=DATE-TIME:20260620T140000Z
 DTSTAMP:20260615T072000Z
-UID:f1eaaed431441778a4283cea8459f8a7@bitrix
+UID:6f496bf5de6805b1ce42e6251ca2f4fd@bitrix
 SUMMARY:Студия "Так" Юлия Ластавляк
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3804,7 +3804,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260616T120000Z
 DTEND;VALUE=DATE-TIME:20260616T130000Z
 DTSTAMP:20260615T102100Z
-UID:e89e256f5789b39c44dd199ac524711c@bitrix
+UID:108114146d30ef61904d2f809b868ccb@bitrix
 SUMMARY:Песеговы, Домейн ПРО
 DESCRIPTION:
 LOCATION:
@@ -3816,7 +3816,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260619T100000Z
 DTEND;VALUE=DATE-TIME:20260619T110000Z
 DTSTAMP:20260619T013300Z
-UID:bee0c37d34a6516fc2141afc2d5d0238@bitrix
+UID:385fd5a0aef095a8b95db0c0b17a64b0@bitrix
 SUMMARY:Застройка: Р//5 модуль ЯШКР "Развитие лидерского потенциала. Защита проектных инициатив" // Сидоренко // Дводненко
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3828,7 +3828,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260619T110000Z
 DTEND;VALUE=DATE-TIME:20260619T113000Z
 DTSTAMP:20260619T013300Z
-UID:2153e8c0f07841c8334c712b79c02cf4@bitrix
+UID:2932cb17a96b503324b6143dd83111b6@bitrix
 SUMMARY:Р//5 модуль ЯШКР "Развитие лидерского потенциала. Защита проектных инициатив" // Сидоренко // Дводненко
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3840,7 +3840,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260630T140000Z
 DTEND;VALUE=DATE-TIME:20260630T160000Z
 DTSTAMP:20260624T041000Z
-UID:04a62e21a98a24597dcba3f1bcbcc23a@bitrix
+UID:82ad9a9d23d6cb0725573ed63eaf257a@bitrix
 SUMMARY:Встреча клуба путешественников // Трифонова // Шуклина
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3852,7 +3852,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260626T050000Z
 DTEND;VALUE=DATE-TIME:20260626T060000Z
 DTSTAMP:20260623T042000Z
-UID:343ea1e9fb4682de20b8c7f5da2c4ae4@bitrix
+UID:66d6c8acf4e7853a47334b3e19ae3f8f@bitrix
 SUMMARY:Встреча с север-пресс / Ямал-медиа
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3864,7 +3864,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260630T113000Z
 DTEND;VALUE=DATE-TIME:20260630T124500Z
 DTSTAMP:20260630T012300Z
-UID:c34d62abc4d60d83375bfb10e3d74626@bitrix
+UID:eca5e21836bf95cd3f4c87615c08c8b1@bitrix
 SUMMARY:Защита резидентов
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3876,7 +3876,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260712T110000Z
 DTEND;VALUE=DATE-TIME:20260712T130000Z
 DTSTAMP:20260707T041200Z
-UID:ac2215832e613164390c62bebdca055a@bitrix
+UID:02f8d97a525b1af6e56c098c8b33807e@bitrix
 SUMMARY:Свет тепла: поддержка семей военнослужащих (столы и стулья - 20 штук) доска
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3888,7 +3888,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260726T060000Z
 DTEND;VALUE=DATE-TIME:20260726T080000Z
 DTSTAMP:20260630T102000Z
-UID:66c4344813f4444e4543ca6e26222dae@bitrix
+UID:54069494a27842f534576731699cb563@bitrix
 SUMMARY:Свет тепла: поддержка семей военнослужащих (столы и стулья - 20 штук) доска
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3900,7 +3900,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260703T100000Z
 DTEND;VALUE=DATE-TIME:20260703T110000Z
 DTSTAMP:20260702T065500Z
-UID:57ee236fb9201243d68967cc1c2306cf@bitrix
+UID:381733804227ceae05cc848bc1262889@bitrix
 SUMMARY:Встреча по спец. проектам по продвижению бренда Ямала
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3912,7 +3912,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260709T130000Z
 DTEND;VALUE=DATE-TIME:20260709T160000Z
 DTSTAMP:20260708T043100Z
-UID:7b29cd2f81e5f1970a12388b09bc0471@bitrix
+UID:3658047e5c03c7b61aae164591d3695c@bitrix
 SUMMARY:Студия "Так" Юлия Ластавляк
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3924,7 +3924,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260707T130000Z
 DTEND;VALUE=DATE-TIME:20260707T150000Z
 DTSTAMP:20260707T061300Z
-UID:70d0c363a433a4c9082aeb10a111755e@bitrix
+UID:b9f4d4f5acf31e4bef3a2d9bb9dc622a@bitrix
 SUMMARY:Свет тепла: поддержка семей военнослужащих (столы и стулья - 20 штук) доска
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3936,7 +3936,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260717T130000Z
 DTEND;VALUE=DATE-TIME:20260717T160000Z
 DTSTAMP:20260715T065400Z
-UID:982c84bcf11f96a1cf2706369ddefc61@bitrix
+UID:3986125af67c3138909226516676694a@bitrix
 SUMMARY:Студия "Так" Юлия Ластавляк
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3948,7 +3948,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260719T090000Z
 DTEND;VALUE=DATE-TIME:20260719T120000Z
 DTSTAMP:20260717T024200Z
-UID:cf9b8cdf9d51bbc9e60966b2199c90b9@bitrix
+UID:0c65f183cae3ba15fd53a5cff5dab8a1@bitrix
 SUMMARY:Студия "Так" Юлия Ластавляк
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3960,7 +3960,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260721T050000Z
 DTEND;VALUE=DATE-TIME:20260721T054500Z
 DTSTAMP:20260720T103900Z
-UID:e5a613a486065b8fd2ab492861d18e19@bitrix
+UID:8d27a264e037b27a2b5b144d2eb34187@bitrix
 SUMMARY:Встреча с куратором арт-резиденции Лампа
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3972,7 +3972,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260725T110000Z
 DTEND;VALUE=DATE-TIME:20260725T140000Z
 DTSTAMP:20260723T062400Z
-UID:72cee7d34c3776d0d8e1bc69cc0500e6@bitrix
+UID:8e49680b2dbb32fda5e95d58294efc1a@bitrix
 SUMMARY:Студия "Так" Юлия Ластавляк
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3984,7 +3984,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260726T090000Z
 DTEND;VALUE=DATE-TIME:20260726T120000Z
 DTSTAMP:20260723T062300Z
-UID:62f094ccbe7dcd2dda38422e5c586c7c@bitrix
+UID:59a592566166f942b200587ca348ed73@bitrix
 SUMMARY:Студия "Так" Юлия Ластавляк
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -3996,7 +3996,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260804T063000Z
 DTEND;VALUE=DATE-TIME:20260804T073000Z
 DTSTAMP:20260803T063500Z
-UID:3196175e3e52e04d5b216a470f9facbd@bitrix
+UID:5be1e39c74e65b5d03ebc2a4843b4eac@bitrix
 SUMMARY:Рабочее совещание регионального отделения Движения Первых с федеральным куратором Департамента регионального взаимодействия Движения Первых / Дводненко Ю / Янцер А
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4008,7 +4008,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260804T120000Z
 DTEND;VALUE=DATE-TIME:20260804T130000Z
 DTSTAMP:20260803T074200Z
-UID:4c64992e7bfc9731656476c1a9775d4d@bitrix
+UID:064edcdff34a889e90d66e8f1c824902@bitrix
 SUMMARY:Рабочее совещание Темченко А.
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4020,7 +4020,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260809T090000Z
 DTEND;VALUE=DATE-TIME:20260809T120000Z
 DTSTAMP:20260806T021700Z
-UID:d443cf5237e2984e46dae54e37f7cc85@bitrix
+UID:2d51ab785209bbe582e0de697df158f5@bitrix
 SUMMARY:Студия "Так" Юлия Ластавляк
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4032,7 +4032,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260813T130000Z
 DTEND;VALUE=DATE-TIME:20260813T160000Z
 DTSTAMP:20260806T021700Z
-UID:3218cbe44ecb84983229fd8309f16e4d@bitrix
+UID:2cacc9332768a04dbd619a47cb9b13ba@bitrix
 SUMMARY:Студия "Так" Юлия Ластавляк
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4044,7 +4044,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261026T070000Z
 DTEND;VALUE=DATE-TIME:20261026T120000Z
 DTSTAMP:20260806T040200Z
-UID:053bebe5af335752468f08da3bee6b42@bitrix
+UID:75e51bdc5aea6637e847b1c0d4e7773d@bitrix
 SUMMARY:Всероссийский методический семинар для специалистов молодёжной политики.
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4056,7 +4056,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261027T033000Z
 DTEND;VALUE=DATE-TIME:20261027T070000Z
 DTSTAMP:20260806T040300Z
-UID:c6619b3c348923fe297a27260be035e8@bitrix
+UID:a3fcac045e7057611453f795b547eea1@bitrix
 SUMMARY:Всероссийский методический семинар для специалистов молодёжной политики.
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4068,7 +4068,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261027T093000Z
 DTEND;VALUE=DATE-TIME:20261027T123000Z
 DTSTAMP:20260806T040400Z
-UID:0474bf25c3158de8281e859fa85783a4@bitrix
+UID:8e0e835e2f91b7325cceaa8487be760c@bitrix
 SUMMARY:Всероссийский методический семинар для специалистов молодёжной политики.
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4080,7 +4080,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261028T033000Z
 DTEND;VALUE=DATE-TIME:20261028T130000Z
 DTSTAMP:20260806T040400Z
-UID:cf0138be700cdaac5d26ff2446edcb61@bitrix
+UID:d0293f242f4ab3690f08c0af2f5156f0@bitrix
 SUMMARY:Всероссийский методический семинар для специалистов молодёжной политики.
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4092,7 +4092,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260806T100000Z
 DTEND;VALUE=DATE-TIME:20260806T103000Z
 DTSTAMP:20260806T063700Z
-UID:2328243fb05ca04b8d590902d4bff681@bitrix
+UID:b302aea223dfcfa95cb5fef608744987@bitrix
 SUMMARY:Совещание Мальцева А.
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4104,7 +4104,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261103T074500Z
 DTEND;VALUE=DATE-TIME:20261103T090000Z
 DTSTAMP:20260810T062700Z
-UID:47a8fbd1c6d53008d3c12456d0a924d0@bitrix
+UID:0f54ee900442c4114c1c48fc6fe94518@bitrix
 SUMMARY:ДНК / Милютина
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4116,7 +4116,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261001T130000Z
 DTEND;VALUE=DATE-TIME:20261001T163000Z
 DTSTAMP:20260810T093500Z
-UID:2bd724340d35680b22c0db3fd7cb520a@bitrix
+UID:ba14b5c304a2ced9f65aec54d93815f5@bitrix
 SUMMARY:Студия "Так" Юлия Ластавляк
 DESCRIPTION:
 RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;UNTIL=20270101;WKST=MO
@@ -4129,7 +4129,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260905T140000Z
 DTEND;VALUE=DATE-TIME:20260905T160000Z
 DTSTAMP:20260810T094000Z
-UID:6be9deaa61ca16ccf7d1aaf78fe14aae@bitrix
+UID:afd9ead9f4b681bb69cd98989ba31ee6@bitrix
 SUMMARY:Зелёный кадр / Медведева
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4141,7 +4141,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261010T090000Z
 DTEND;VALUE=DATE-TIME:20261010T140000Z
 DTSTAMP:20260810T095000Z
-UID:5ef0a7e4290d7a30eeba3afef8df9aae@bitrix
+UID:77390a34cf23d100729ddb9992d78c7b@bitrix
 SUMMARY:Студия "Так" Юлия Ластавляк
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4153,7 +4153,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20261024T090000Z
 DTEND;VALUE=DATE-TIME:20261024T140000Z
 DTSTAMP:20260810T095100Z
-UID:bc5c36c795a9731c138fa99de23f6c80@bitrix
+UID:99e3f88fe6107171e4fdb27e60cd5e0f@bitrix
 SUMMARY:Студия "Так" Юлия Ластавляк
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4165,7 +4165,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260911T140000Z
 DTEND;VALUE=DATE-TIME:20260911T160000Z
 DTSTAMP:20260813T011600Z
-UID:3a22647213c011c628f4c6999606c696@bitrix
+UID:bbfb20a93d34ceed50db68d35634e4eb@bitrix
 SUMMARY:Обучение у резидентов
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4177,7 +4177,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260912T090000Z
 DTEND;VALUE=DATE-TIME:20260912T140000Z
 DTSTAMP:20260813T011700Z
-UID:ace1e5a2fae5a37089c269deb5bc26cf@bitrix
+UID:94815f5019800f7eeff423473a92596b@bitrix
 SUMMARY:Обучение у резидентов
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4189,7 +4189,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260814T093000Z
 DTEND;VALUE=DATE-TIME:20260814T101500Z
 DTSTAMP:20260814T065800Z
-UID:44aa4f1c91149c57c1088f6ba35fbd83@bitrix
+UID:0bb375715cacf2bb19c530f379dfea71@bitrix
 SUMMARY:Совещание / Новожилова
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
@@ -4201,7 +4201,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20260817T063000Z
 DTEND;VALUE=DATE-TIME:20260817T073000Z
 DTSTAMP:20260814T163800Z
-UID:120eb55cc9c6a6ed76978f70aa2c516e@bitrix
+UID:85fcb20df8c031b7de98c26b0737a1a7@bitrix
 SUMMARY:Совещание по планированию рабочей недели МЦ Ямолод
 DESCRIPTION:
 LOCATION:Арт-резиденция «Медиа-студия»
